@@ -1,0 +1,26 @@
+# Jekyll files
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache/
+.jekyll-assets-cache/
+
+# Bundler dependencies
+/vendor/bundle/
+/vendor/cache/
+/vendor/gems/
+/vendor/ruby/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.env
+.env.*
+.secret
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

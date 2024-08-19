@@ -1,0 +1,5 @@
+
+- Setup google service account
+
+How to Use Python with Google Sheets (Easy Guide)
+https://www.youtube.com/watch?v=-vBbkrk9sdA

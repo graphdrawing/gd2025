@@ -1,0 +1,75 @@
+{
+  "OC-Members": [
+    {
+      "Role": "General Conference Co-Chairs",
+      "First": "Martin",
+      "Given": "Nöllenburg",
+      "Affiliation": "Linköping University, Sweden",
+      "Photo": "yes",
+      "Website": "https://www.ac.tuwien.ac.at/people/noellenburg/"
+    },
+    {
+      "Role": "General Conference Co-Chairs",
+      "First": "Robert",
+      "Given": "Ganian",
+      "Affiliation": "Linköping University, Sweden",
+      "Photo": "yes",
+      "Website": "https://www.ac.tuwien.ac.at/people/rganian/"
+    },
+    {
+      "Role": "Local Co-organizer (Publicity)",
+      "First": "Hsiang-Yun",
+      "Given": "Wu",
+      "Affiliation": "St. Pölten University of Applied Sciences, Austria",
+      "Photo": "yes",
+      "Website": "http://yun-vis.net"
+    }
+  ],
+  "PC-Memers": [
+    {
+      "Role": "PC members",
+      "First": "Hsiang-Yun",
+      "Given": "Wu",
+      "Affiliation": "St. Pölten University of Applied Sciences, Austria",
+      "": "Just a test example"
+    }
+  ],
+  "ImportantDates": [
+    {
+      "Event": "Abstract submission",
+      "Date": "Wednesday, 1 June 2022"
+    },
+    {
+      "Event": "Paper deadline",
+      "Date": "Wednesday, 8 June 2022"
+    },
+    {
+      "Event": "Paper notification",
+      "Date": "Monday, 18 July 2022"
+    },
+    {
+      "Event": "Poster deadline",
+      "Date": "Wednesday, 10 August 2022"
+    },
+    {
+      "Event": "Poster notification",
+      "Date": "Friday, 19 August 2022"
+    },
+    {
+      "Event": "Final versions due",
+      "Date": "Monday, 5 September 2022"
+    },
+    {
+      "Event": "Contest deadline",
+      "Date": "Tuesday, 6 September 2022"
+    },
+    {
+      "Event": "PhD School",
+      "Date": "16 (Mon)-17 (Tue) September 2025"
+    },
+    {
+      "Event": "Symposium",
+      "Date": "18 (Wed)-20 (Fri) September 2025"
+    }
+  ]
+}

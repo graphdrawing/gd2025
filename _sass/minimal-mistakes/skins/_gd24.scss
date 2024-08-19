@@ -1,0 +1,28 @@
+/* ==========================================================================
+   gd24 skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #eeeeee !default;
+$text-color: #222831 !default;
+$muted-text-color: #393e46 !default;
+$primary-color: #467668 !default;
+$border-color: mix(#cec3a7, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #393e46 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#cec3a7, $text-color, 80%) !default;
+
+.page__footer {
+  color: #cec3a7 !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.nav__title{
+  color: #cec3a7 !important; // override
+}
+

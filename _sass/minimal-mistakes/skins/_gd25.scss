@@ -1,0 +1,28 @@
+/* ==========================================================================
+   gd25 skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #F2F2F2 !default; 
+$text-color: #0D0D0D !default; 
+$muted-text-color: #393e46 !default; 
+$primary-color: #733A2D !default;
+$secondary-color: #D99379 !default; 
+$border-color: #D99379 !default; // Blending the primary and secondary colors
+$footer-background-color: $primary-color !default; // footer
+$link-color: $primary-color !default; // links
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $secondary-color !default; // on hover 
+$navicon-link-color-hover: mix(#73A2BF, $text-color, 80%) !default; 
+
+.page__footer {
+  color: #fff !important;
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.nav__title {
+  color: #ffffff !important; 
+}

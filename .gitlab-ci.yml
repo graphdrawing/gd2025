@@ -1,0 +1,15 @@
+# The Docker image that will be used to build your app
+image: ruby:3.1
+# Functions that should be executed before the build script is run
+before_script:
+  - gem install bundler
+  - bundle install
+
+pages:
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
