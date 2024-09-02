@@ -7,7 +7,7 @@ classes: wide
 #  - dark-theme
 header:
     image: /assets/images/teaser/gd2025/homepage-teaser.png
-    caption: "Image credit: [**LiU**](https://media.liu.se/)"
+    caption: "Image credit: [**LiU**](https://liu.se/en/organisation/liu/itn/mit)"
 # caption: "Image credit: [**iStock**](https://www.istockphoto.com/)"
 # last_modified_at: 2023-08-09
 ---
