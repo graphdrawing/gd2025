@@ -7,9 +7,8 @@ classes: wide
 #  - dark-theme
 header:
     image: /assets/images/teaser/gd2025/homepage-teaser.png
-    caption: "Image credit: [**LiU**](https://liu.se/en/organisation/liu/itn/mit)"
-# caption: "Image credit: [**iStock**](https://www.istockphoto.com/)"
-# last_modified_at: 2023-08-09
+    caption: "Image credit: [**Linköping University**](https://liu.se/en/organisation/liu/itn/mit)"
+
 ---
 
 
@@ -28,3 +27,12 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 
 
+## Sponsors
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><img src="../assets/images/sponsor/yWorks.png" width="200" /></a><br />
+<a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><strong>yWorks</strong></a></td>
+
+
+  </tr>
+</table>
