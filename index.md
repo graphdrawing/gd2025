@@ -8,13 +8,11 @@ classes: wide
 header:
     image: /assets/images/teaser/gd2025/homepage-teaser.png
     caption: "Image credit: [**Linköping University**](https://liu.se/en/organisation/liu/itn/mit)"
-
 ---
-
 
 ## September 24-26, 2025 · Norrköping, Sweden
 
-We are currently in the process of setting up our webpage. 
+We are currently in the process of setting up our webpage.
 Stay tuned for more updates and information soon!
 
 ## About Graph Drawing 2025
@@ -25,14 +23,38 @@ Graph Drawing is concerned with the geometric representation of graphs and const
 The symposium on Graph Drawing and Network Visualization has been the main annual event in this area for more than 30 years. Its focus is on combinatorial and algorithmic aspects of graph drawing as well as the design of network visualization systems and interfaces.
 {: style="text-align: justify;"}
 
-
-
 ## Sponsors
+
+### Gold Sponsors
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><img src="../assets/images/sponsor/yWorks.png" width="200" /></a><br />
-<a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><strong>yWorks</strong></a></td>
+    <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><strong>yWorks</strong></a> </td>
+    <td style="border: none;"></td>
+    <td style="border: none;"><a href="https://www.tomsawyer.com" target="_blank"><img src="../assets/images/sponsor/Tom_Sawyer_Software.png" width="264" /></a><br />
+    <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong></a>
+    </td>
+  </tr>
+</table>
 
 
+### Silver Sponsor
+
+<a href="https://www.visualsweden.se/" target="_blank"><img src="../assets/images/sponsor/visual_sweden.png" width="170" /></a><br />
+<a href="https://www.visualsweden.se/" target="_blank"><strong>Visual Sweden</strong></a>
+
+
+### Contributors
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://visualiseringscenter.se/" target="_blank"><img src="../assets/images/sponsor/vis_center.png" width="140" /></a><br />
+      <a href="https://visualiseringscenter.se/" target="_blank"><strong>Visualiseringscenter C</strong></a>
+    </td>
+    <td style="border: none;"></td>
+    <td style="border: none;">
+      <a href="https://liu.se/en" target="_blank"><img src="../assets/images/sponsor/liu.jpg" width="240" /></a><br />
+      <a href="https://liu.se/en" target="_blank"><strong>Linköping University</strong></a>
+    </td>
   </tr>
 </table>
