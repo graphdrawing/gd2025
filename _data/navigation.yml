@@ -4,8 +4,10 @@ main:
      url: /pages/cfp
    - title: "Committees"
      url: /pages/committee
+   - title: "Contest"
+     url: "https://mozart.diei.unipg.it/gdcontest/2025/"
    - title: "Travel"
-     url: /pages/travel_accomodation
+     url: /pages/travel_accommodation
    - title: "News"
      url: /pages/news
    - title: "Code of Conduct"
