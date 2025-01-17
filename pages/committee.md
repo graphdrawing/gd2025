@@ -5,7 +5,7 @@ title: "Committee"
 header:
     image: /assets/images/teaser/gd2025/committee-teaser.png
     caption: "Image credit: [**LiU**](https://liu.se/en/organisation/liu/itn/mit)"
-# last_modified_at: 2025-01-22
+# last_modified_at: 2025-01-17
 toc: true
 ---
 
@@ -13,49 +13,55 @@ toc: true
 
 ## Organizing Committee
 
--   Doris Brazda, TU Wien, Austria
--   Thomas Depian, TU Wien, Austria
--   Alexander Dobler, TU Wien, Austria
--   Simon Dominik Fink, TU Wien, Austria
--   [Robert Ganian](https://www.ac.tuwien.ac.at/people/rganian/), TU Wien (co-chair), Austria
--   [Martin Nöllenburg](https://www.ac.tuwien.ac.at/people/noellenburg/), TU Wien (co-chair), Austria
--   Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
+- [Andreas Kerren](https://liu.se/en/employee/andke01), Linköping University, Sweden *(general co-chair)*
+- [Kostiantyn Kucher](https://liu.se/en/employee/kosku13), Linköping University, Sweden *(general co-chair)*
+- Claudio Linhares, Linnaeus University, Sweden *(PhD school chair)*
+- Nico Reski, Linköping University, Sweden *(Decision Arena chair)*
+- Zeyang Huang, Linköping University, Sweden *(web chair)*
+
 
 ## Program Committee
 
--   Daniel Archambault, Newcastle University
--   David Auber, University of Bordeaux
--   Benjamin Bach, University of Edinburgh
--   Martin Balko, Charles University in Prague
--   Carla Binucci, University of Perugia
--   Giuseppe Di Battista, Third University of Rome
--   Vida Dujmovic, University of Ottawa
--   Tim Dwyer, Monash University
--   David Eppstein, University of California, Irvine
--   [Stefan Felsner](https://page.math.tu-berlin.de/~felsner/) (co-chair), Technical University Berlin
--   Michael Hoffmann, ETH Zurich
--   Seok-Hee Hong, University of Sydney
--   Yifan Hu, Amazon
--   Tony Huang, University of Technology Sydney
--   Jonathan Klawitter, University of Auckland
--   [Karsten Klein](https://phobos70.inf.uni-konstanz.de) (co-chair), Konstanz University
--   Linda Kleist, Technische Universität Braunschweig
--   Boris Klemz, University of Würzburg
--   Maarten Löffler, Utrecht University
--   Maurizio Patrignani, Third University of Rome
--   Arnaud Sallaberry, University of Montpellier
--   Manfred Scheucher, Technical University Berlin
--   Alessandra Tappini, University of Perugia
--   Géza Tóth, Rényi Institute, Budapest
--   [Torsten Ueckerdt](https://i11www.iti.kit.edu/members/torsten_ueckerdt/index) (remote submission chair), KIT Karlsruhe
--   Birgit Vogtenhuber, Graz University of Technology
--   Hsiang-Yun Wu, St. Pölten University of Applied Sciences
+-   Alessio Arleo, TU Eindhoven, Netherlands
+-   Michael Bekos, University of Ioannina, Greece
+-   Markus Chimani, University of Osnabrück, Germany
+-   Éric Colin de Verdière, CNRS, LIGM, Marne-la-Vallée, France
+-   Giordano Da Lozzo, Roma Tre University, Italy
+-   Sara Di Bartolomeo, TU Wien, Austria
+-   [Vida Dujmovic](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/vida-dujmovic), University of Ottawa, Canada *(program co-chair)*
+-   Henry Förster, TU Munich, Germany
+-   Fabrizio Frati, Roma Tre University, Italy
+-   Robert Ganian, TU Wien, Austria
+-   Daniel Gonçalves, CNRS & University of Montpellier, France
+-   Siddharth Gupta, BITS Pilani, K K Birla Goa Campus, India
+-   Thekla Hamm, TU Eindhoven, Netherlands
+-   Takayuki Itoh, Ochanomizu University, Japan
+-   Philipp Kindermann, Trier University, Germany
+-   Stephen Kobourov, TU Munich, Germany
+-   Kostiantyn  Kucher, Linköping University, Sweden
+-   Silvia Miksch, TU Wien, Austria
+-   [Fabrizio Montecchiani](https://mozart.diei.unipg.it/montecchiani/), University of Perugia, Italy *(program co-chair)*
+-   Pat Morin, Carleton University, Canada
+-   Tamara Mchedlidze, Utrecht University, Netherlands
+-   Giacomo Ortali, University of Perugia, Italy
+-   Sergey Pupyrev, Meta, USA
+-   Marcus Schaefer, DePaul University, USA
+-   Raphael Steiner, ETH Zurich, Switzerland
+-   Andrew Suk, University of California San Diego, USA
+-   Antonios Symvonis, National Technical University of Athens, Greece
+-   Csaba D. Tóth, CSU Northridge, USA
+-   Torsten Ueckerdt, Karlsruhe Institute of Technology, Germany
+-   Pavel Valtr, Charles University, Czech Republic
+-   Tatiana von Landesberger, University of Cologne, Germany
+-   Meirav Zehavi, Ben-Gurion University, Israel
+
+
+
 
 ## Contest Committee
 
 -   Sara Di Bartolomeo, University of Konstanz, Germany
--   [Fabian Klute](https://fklute.com) (chair), UPC Barcelona, Spain
--   Wouter Meulemans, TU Eindhoven, Netherlands
+-   [Fabian Klute](https://fklute.com), UPC Barcelona, Spain *(chair)*
 -   Debajyoti Mondal, University of Saskatchewan, Canada
 -   Jules Wulms, TU Eindhoven, Netherlands
 

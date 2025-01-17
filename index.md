@@ -10,10 +10,7 @@ header:
     caption: "Image credit: [**Linköping University**](https://liu.se/en/organisation/liu/itn/mit)"
 ---
 
-## September 24-26, 2025 · Norrköping, Sweden
-
-We are currently in the process of setting up our webpage.
-Stay tuned for more updates and information soon!
+## September 24–26, 2025 · Norrköping, Sweden
 
 ## About Graph Drawing 2025
 
@@ -23,7 +20,34 @@ Graph Drawing is concerned with the geometric representation of graphs and const
 The symposium on Graph Drawing and Network Visualization has been the main annual event in this area for more than 30 years. Its focus is on combinatorial and algorithmic aspects of graph drawing as well as the design of network visualization systems and interfaces.
 {: style="text-align: justify;"}
 
+## Important Dates
+
+| Events                            | Dates |
+| --------------------------------- | ----- |
+| Abstract submission deadline      | June 3, 2025   |
+| Paper submission deadline         | June 10, 2025   |
+| Notification of paper acceptance  | July 23, 2025   |
+| Poster submission deadline        | August 22, 2025  |
+| Notification of poster acceptance | September 1, 2025   |
+| Final versions due                | TBA   |
+| PhD school		                | September 22–23, 2025   |
+| Symposium                         | September 24–26, 2025   |
+
+All deadlines are understood to be 23:59 AoE.
+
+
 ## Sponsors
+
+### Platinum Sponsor
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="../assets/images/sponsor/carl-tryggers-stiftelse.png" width="230" /></a><br />
+      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><strong>Carl Tryggers Foundation for Scientific Research</strong></a>
+    </td>
+  </tr>
+</table>
 
 ### Gold Sponsors
 <table style="border-collapse: collapse; border: none;">
