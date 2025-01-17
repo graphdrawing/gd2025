@@ -5,8 +5,8 @@ title: "Important News"
 header:
     image: /assets/images/teaser/gd2025/news-teaser.png
     caption: "Image credit: [**Organizer**](https://ivis.itn.liu.se/)"
-# last_modified_at: 2023-07-24
+# last_modified_at: 2025-01-17
 # toc: true
 ---
 
-[Sep 2, 2025] We are currently in the process of setting up our webpage. Stay tuned for more updates and information soon!
+[17.01.2025] The webpage has been updated with [Call for Papers](../cfp/), [Committees](../commitee/), and [Travel & Accommodation](../travel_accommodation/).

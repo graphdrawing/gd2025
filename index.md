@@ -43,7 +43,7 @@ All deadlines are understood to be 23:59 AoE.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="../assets/images/sponsor/carl-tryggers-stiftelse.png" width="230" /></a><br />
+      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="../assets/images/sponsor/carl-tryggers-stiftelse.png" width="300" /></a><br />
       <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><strong>Carl Tryggers Foundation for Scientific Research</strong></a>
     </td>
   </tr>
