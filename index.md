@@ -43,7 +43,7 @@ All deadlines are understood to be 23:59 AoE.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="../assets/images/sponsor/carl-tryggers-stiftelse.png" width="300" /></a><br />
+      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="assets/images/sponsor/carl-tryggers-stiftelse.png" width="300" /></a><br />
       <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><strong>Carl Tryggers Foundation for Scientific Research</strong></a>
     </td>
   </tr>
@@ -52,11 +52,11 @@ All deadlines are understood to be 23:59 AoE.
 ### Gold Sponsors
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><img src="../assets/images/sponsor/yWorks.png" width="200" /></a><br />
+    <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><img src="assets/images/sponsor/yWorks.png" width="200" /></a><br />
     <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><strong>yWorks</strong></a> </td>
     <td style="border: none;"></td>
     <td style="border: none;"></td>
-    <td style="border: none;"><a href="https://www.tomsawyer.com" target="_blank"><img src="../assets/images/sponsor/Tom_Sawyer_Software.png" width="230" /></a><br />
+    <td style="border: none;"><a href="https://www.tomsawyer.com" target="_blank"><img src="assets/images/sponsor/Tom_Sawyer_Software.png" width="230" /></a><br />
     <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong></a>
     </td>
   </tr>
@@ -68,7 +68,7 @@ All deadlines are understood to be 23:59 AoE.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <a href="https://www.visualsweden.se/" target="_blank"><img src="../assets/images/sponsor/visual_sweden.png" width="170" /></a><br />
+      <a href="https://www.visualsweden.se/" target="_blank"><img src="assets/images/sponsor/visual_sweden.png" width="170" /></a><br />
       <a href="https://www.visualsweden.se/" target="_blank"><strong>Visual Sweden</strong></a>
     </td>
   </tr>
@@ -79,12 +79,12 @@ All deadlines are understood to be 23:59 AoE.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <a href="https://visualiseringscenter.se/" target="_blank"><img src="../assets/images/sponsor/vis_center.png" width="300" /></a><br />
+      <a href="https://visualiseringscenter.se/" target="_blank"><img src="assets/images/sponsor/vis_center.png" width="300" /></a><br />
       <a href="https://visualiseringscenter.se/" target="_blank"><strong>Visualiseringscenter C</strong></a>
     </td>
     <td style="border: none;"></td>
     <td style="border: none;">
-      <a href="https://liu.se/en" target="_blank"><img src="../assets/images/sponsor/liu.png" width="220" /></a><br />
+      <a href="https://liu.se/en" target="_blank"><img src="assets/images/sponsor/liu.png" width="220" /></a><br />
       <a href="https://liu.se/en" target="_blank"><strong>Linköping University</strong></a>
     </td>
   </tr>
