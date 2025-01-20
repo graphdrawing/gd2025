@@ -25,7 +25,7 @@ All deadlines are understood to be 23:59 AoE. Submit on [Easychair](https://easy
 
 ## Call for Papers
 
-[Download the call for papers as PDF](https://graphdrawing.github.io/gd2025/assets/pdfs/Call_for_Papers-2025.pdf)
+[Download the call for papers as PDF](../../assets/pdfs/Call_for_Papers-2025.pdf)
 
 **Graph Drawing** is concerned with the geometric representation of graphs and constitutes the algorithmic core of **Network Visualization**. Graph Drawing and Network Visualization are motivated by applications for which it is crucial to visually analyze and interact with relational datasets. Application areas include data science, social sciences, web computing, information systems, life sciences, geography, business intelligence, information security, and software engineering.
 
