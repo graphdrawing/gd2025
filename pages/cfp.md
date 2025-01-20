@@ -33,7 +33,7 @@ Graph Drawing has been the main annual conference in this area for more than 30 
 
 GD 2025 will be held in Norrköping, Sweden, on September 24-26, 2025 with a reception on the evening of September 23. A preconference PhD school will take place September 22-23, 2025. GD 2025 is designed to be held on-site. It is expected that regular papers are presented on site by one of the authors. To address the global challenges and as an offer for authors who are unable to attend we allow for a limited number of remote presentations, as further explained below.
 
-The code of conduct for the GD conference can be found at [http://graphdrawing.org/codeOfConduct.html](http://graphdrawing.org/codeOfConduct.html)
+The code of conduct for the GD conference can be found at [http://graphdrawing.org/safetoc.html](http://graphdrawing.org/safetoc.html)
 
 
 ## Papers
