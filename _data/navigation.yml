@@ -4,9 +4,9 @@ main:
      url: /pages/cfp
    - title: "Committees"
      url: /pages/committee
-   - title: "Contest"
+   - title: "Contest &nbsp;<i class='fas fa-external-link-alt fa-sm'></i>"
      url: "https://mozart.diei.unipg.it/gdcontest/2025/"
-   - title: "Travel"
+   - title: "Travel & Stay"
      url: /pages/travel_accommodation
    - title: "News"
      url: /pages/news
