@@ -9,4 +9,6 @@ header:
 # toc: true
 ---
 
+[13.03.2025] The webpage has been updated with [Invited Speakers](../speaker/).
+
 [17.01.2025] The webpage has been updated with [Call for Papers](../cfp/), [Committees](../committee/), and [Travel & Accommodation](../travel_accommodation/).

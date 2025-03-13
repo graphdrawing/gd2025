@@ -4,6 +4,8 @@ main:
      url: /pages/cfp
    - title: "Committees"
      url: /pages/committee
+   - title: "Invited Speakers"
+     url: /pages/speaker
    - title: "Contest &nbsp;<i class='fas fa-external-link-alt fa-sm'></i>"
      url: "https://mozart.diei.unipg.it/gdcontest/2025/"
    - title: "Travel & Stay"
