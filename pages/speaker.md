@@ -66,7 +66,7 @@ toc: true
   <!-- <figcaption>Caption goes here</figcaption> -->
 </figure>
 <h2><a href="https://www.uu.nl/staff/HLBodlaender">Prof. Dr. Hans Bodlaender</a></h2>
-<p> <strong><a href="https://www.uu.nl">Utrecht University</a>, the Netherlands</strong> </p>
+<p> <strong><a href="https://www.uu.nl">Utrecht University</a>, Netherlands</strong> </p>
 </div>
 
 <p> <strong> Title & Abstract: </strong> </p>
