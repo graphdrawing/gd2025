@@ -195,7 +195,7 @@
    \ifx\@category\@empty
 		\textcolor{red}{Author: Please fill in \string\category\space macro. Options: Track 1, Track 2, Short (Theory), Short (Applied), Poster}%   
    \else
-   	\ifthenelse{\equal{\@category}{Track 1} \OR \equal{\@category}{Track 2}}%
+   	\ifthenelse{\equal{\@category}{Track 1} \OR \equal{\@category}{Track 2} \OR \equal{\@category}{Short (Theory)} \OR \equal{\@category}{Short (Applied)} \OR \equal{\@category}{Poster}}%
     {\@category}%
     {\textcolor{red}{Author: Please fill in \string\category\space macro with a valid option: Track 1, Track 2, Short (Theory), Short (Applied), Poster}}%
      

@@ -12,6 +12,8 @@ main:
      url: /pages/travel_accommodation
    - title: "News"
      url: /pages/news
+   - title: "PhD School"
+     url: /pages/school
    - title: "Code of Conduct"
      url: /pages/code_of_conduct
   

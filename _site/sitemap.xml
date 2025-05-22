@@ -20,10 +20,16 @@
 <loc>http://localhost:4000/pages/news/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/school/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pages/speaker/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pages/travel_accommodation/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/pages/venue/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdfs/Call_for_Papers-2025.pdf</loc>
