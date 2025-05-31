@@ -7,7 +7,7 @@ classes: wide
 #  - dark-theme
 header:
     image: /assets/images/teaser/gd2025/homepage-teaser.png
-    caption: "Image credit: [**Linköping University**](https://liu.se/en/organisation/liu/itn/mit)"
+    caption: "Image credit: [**Linköping University**](https://liu.se/en/research/media-and-information-technology-mit)"
 ---
 
 ## September 24–26, 2025 · Norrköping, Sweden
