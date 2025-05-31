@@ -3,7 +3,7 @@
 layout: single
 title: "GD2025 PhD School"
 header:
-    image: /assets/images/teaser/gd2025/codeofconduct-teaser.png
+    image: /assets/images/teaser/gd2025/teaser2.png
     caption: "Image credit: [**LiU**](https://media.liu.se/)"
 toc: true
 ---
@@ -94,11 +94,11 @@ toc: true
   tbody > tr.coffee,
   tbody > tr.lunch,
   span.coffee {
-    background-color: #a6e0ef;
+    background-color: #f3e3df;
     color: #2C2C2C;
   }
   tbody > tr.phd-school.header {
-    background-color: #3D6BA3;
+    background-color: #843f30;
     color: #fff;
   }
   tbody > tr.phd-school.header a {
@@ -109,7 +109,7 @@ toc: true
   tbody > tr.reception:hover,
   tbody > tr.coffee:hover,
   tbody > tr.lunch:hover {
-    background-color: #96d0df;
+    background-color: #dab3aa;
   }
   tbody > tr a {
     color: #2C2C2C !important;
@@ -120,25 +120,25 @@ toc: true
   }
 
   tbody > tr.lunch.header {
-    background-color: #a6e0ef;
+    background-color: #f3e3df;
   }
 
   tbody > tr.lunch.header:hover {
-    background-color: #96d0df;
+    background-color: #dab3aa;
   }
 
   tbody > tr.coffee,
   tbody > tr.lunch {
-    background-color: #f5fbff;
+    background-color: #fcf7f6;
     color: #2C2C2C;
   }
   tbody > tr.coffee:hover,
   tbody > tr.lunch:hover {
-    background-color: #e0f3fa;
+    background-color: #f8eeec;
   }
 
   tbody > tr.phd-school.header:hover {
-    background-color: #4a7bc0;
+    background-color: #a34d3a;
   }
 
 </style>

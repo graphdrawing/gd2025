@@ -4,16 +4,16 @@ main:
      url: /pages/cfp
    - title: "Committees"
      url: /pages/committee
-   - title: "Invited Speakers"
-     url: /pages/speaker
+   - title: "PhD School"
+     url: /pages/school
    - title: "Contest &nbsp;<i class='fas fa-external-link-alt fa-sm'></i>"
      url: "https://mozart.diei.unipg.it/gdcontest/2025/"
    - title: "Travel & Stay"
      url: /pages/travel_accommodation
    - title: "News"
      url: /pages/news
-   - title: "PhD School"
-     url: /pages/school
+   - title: "Invited Speakers"
+     url: /pages/speaker
    - title: "Code of Conduct"
      url: /pages/code_of_conduct
   

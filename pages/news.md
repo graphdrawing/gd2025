@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[31.05.2025] The PhD School page has been updated with the [Location](../school/#location), [Lecturers](../school/#lecturers), and a Preliminary [Program](../school/#program).
+
 [22.05.2025] The LaTeX class file has been updated in the [Call for Papers](../cfp/). Please download the latest version [gd-lipics-v2.cls](../../assets/template/gd-lipics-v2.cls) for your submission.
 
 [20.03.2025] Announcing the **Invited Speakers** for GD2025!
