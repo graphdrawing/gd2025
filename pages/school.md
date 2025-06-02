@@ -174,14 +174,13 @@ The location is accessible by wheelchair and the registration and coffee breaks 
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td>
-    <td><a href="#tba"><span class="authors"><span>Dr. Sara Di Bartolomeo</span>. </span><span class="title">Information Visualization Perspective on Network Visualization</span> </a>
+    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><a href="#sara-di-bartolomeo"><span class="authors">Dr. Sara Di Bartolomeo</span>. <span class="title">Information Visualization Perspective on Network Visualization</span> </a>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr class="lunch"><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
-    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#markus-chimani"><span class="authors"><span>Prof. Dr. Markus Chimani</span>. </span><span class="title">Metrics Evaluations for Graphs</span></a>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#markus-chimani"><span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Metrics Evaluations for Graphs</span></a>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
@@ -207,7 +206,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr class="lunch"><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
-    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#camilla-forsell"><span class="authors"><span>Dr. Camilla Forsell</span>. </span><span class="title">User Evaluations in Graph Drawing</span></a>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#camilla-forsell"><span class="authors">Dr. Camilla Forsell</span>. <span class="title">User Evaluations in Graph Drawing</span></a>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
