@@ -37,7 +37,7 @@ toc: true
     margin-bottom: 0;
     margin-top: 5px;
     float: left;
-    width: 25%;
+    width: 30%;
     align: left;
     margin-right: 24px;
   }
@@ -175,7 +175,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="phd-school header"><td>09:00 &mdash; 12:00</td>
-    <td><a href="#tba"><span class="authors"><span>TBA</span>. </span><span class="title">Information Visualization Perspective on Network Visualization</span> <span style="color: #fff; font-style: italic;">(Preliminary Title)</span></a>
+    <td><a href="#tba"><span class="authors"><span>Dr. Sara Di Bartolomeo</span>. </span><span class="title">Information Visualization Perspective on Network Visualization</span> </a>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
@@ -217,7 +217,21 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 
 ## Lecturers 
 
+<div class="header" id="sara-di-bartolomeo">
+<figure>
+  <img src="../../assets/images/lecturer/Sara_Di_Bartolomeo.jpg">
+</figure>
+<h3><a href="https://informatics.tuwien.ac.at/people/sara-bartolomeo">Dr. Sara Di Bartolomeo</a></h3>
+<p><strong><a href="https://www.tuwien.at/">TU Wien</a>, Austria</strong></p>
+</div>
 
+<p><strong>Preliminary Title:</strong></p>
+<p>Information Visualization Perspective on Network Visualization</p>
+
+<p><strong>Biography:</strong></p>
+<p>I'm a postdoc at TU Wien, previously held a postdoc position at the University of Konstanz, and completed my doctorate at Northeastern University in Boston. My research focuses on graph drawing—particularly layered graphs, generative models, and virtual reality. I value any research project that involves a bit of creativity and artistry.</p>
+
+<hr>
 
 <div class="header" id="markus-chimani">
 <figure>
@@ -264,8 +278,4 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 
 <p><strong>Biography:</strong></p>
 <p>Camilla Forsell is an Associate Professor in evaluation methodology and visualization and works at the Division of Media and Information Technology, Linköping University. She is also director of undergraduate studies and deputy head of the division. Camilla holds a master's degree in cognitive science from Linköping University in 2003, and a doctorate in human-computer interaction from Uppsala University in 2007. She has worked at Linköping University since 2007, as an Associate Professor since 2013.</p>
-
-<hr>
-
-<strong>More Lecturers to be announced.</strong> 
 
