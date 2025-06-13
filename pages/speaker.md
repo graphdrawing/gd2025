@@ -43,7 +43,7 @@ toc: true
     margin-bottom: 0;
     margin-top: 5px;
     float: left;
-    width: 30%;
+    width: 25%;
     align: left;
     margin-right: 24px;
   }
@@ -69,8 +69,10 @@ toc: true
 <p> <strong><a href="https://www.uu.nl">Utrecht University</a>, Netherlands</strong> </p>
 </div>
 
-<p> <strong> Title & Abstract: </strong> </p>
-<p> (Track 1) To be announced, please check back later. </p>
+<p> <strong> Title:  </strong> </p>
+<p>A Sketch of Parameterized Complexity </p>
+<p> <strong> Abstract: </strong> </p>
+<p> In the field of parameterized complexity, we study algorithms for and the complexity of problems where one part of the input is a parameter that is assumed to be small. In this talk, a survey will be given of several central notions from parameterized complexity, and discuss some recent developments, including the classes XNLP and XALP. These topics will be illustrated with examples from results on graph layout and graph drawing. </p>
 
 <p> <strong> Biography: </strong> </p>
 <p> Hans Bodlaender finished his PhD at Utrecht University in 1986, on a topic in Distributed Computing. He was postdoc at MIT in 1987, and worked as assistant, associate and full professor from 1987 till now at Utrecht University, and part time full professor from 2014 till 2018.<br><br>

@@ -13,8 +13,8 @@ toc: true
 
 | Events                            | Dates |
 | --------------------------------- | ----- |
-| Abstract submission deadline      | June 3, 2025   |
-| Paper submission deadline         | June 10, 2025   |
+| Abstract submission deadline      | ~~June 3, 2025~~   |
+| Paper submission deadline         | ~~June 10, 2025~~   |
 | Notification of paper acceptance  | July 23, 2025   |
 | Poster submission deadline        | August 22, 2025  |
 | Notification of poster acceptance | September 1, 2025   |
@@ -91,7 +91,7 @@ Details about the traditional **Graph Drawing Contest**, which is held at the co
 
 Results that have been previously published (or are scheduled for publication) in another conference proceedings or journal, as well as simultaneous submissions of results to other conferences with published proceedings or journals are not permitted, except for poster submissions. With the exception of remote presentations, each paper or poster must be presented at the conference by an author, otherwise the paper can be excluded from publication in the proceedings.
 
-ChatGPT and similar large language models may be used to improve the paper’s language, but its use should be mentioned as a footnote and the authors remain responsible for the full paper. In particular, the unattributed use of any such tools in the creation of the paper’s scientific content is forbidden.
+ChatGPT and similar large language models may be used to improve the paper's language, but its use should be mentioned as a footnote and the authors remain responsible for the full paper. In particular, the unattributed use of any such tools in the creation of the paper's scientific content is forbidden.
 
 ### Submission Format
 

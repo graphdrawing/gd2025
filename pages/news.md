@@ -10,6 +10,7 @@ header:
 ---
 
 [31.05.2025] The PhD School page has been updated with the [Location](../school/#location), [Lecturers](../school/#lecturers), and a Preliminary [Program](../school/#program).
+We are pleased to welcome **Dr. Sara Di Bartolomeo**, **Prof. Dr. Markus Chimani**, **Prof. Dr. Daniel Archambault**, and **Dr. Camilla Forsell** as our lecturers for the GD2025 PhD School. The school will cover topics in network visualization, graph metrics, machine learning, and user evaluations.
 
 [22.05.2025] The LaTeX class file has been updated in the [Call for Papers](../cfp/). Please download the latest version [gd-lipics-v2.cls](../../assets/template/gd-lipics-v2.cls) for your submission.
 
