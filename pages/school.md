@@ -244,7 +244,14 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p>Metrics Evaluations for Graphs</p>
 
 <p><strong>Biography:</strong></p>
-<p>Markus Chimani is a Professor of Theoretical Computer Science at Osnabrück University. He studied Computer Science at TU Vienna from 1999 to 2004. After a six-month research stay at Mitsubishi Electric Research Labs in Boston, MA, he began his PhD at TU Dortmund under the supervision of Prof. Petra Mutzel (Chair of Algorithm Engineering), receiving his doctorate in late 2008. He continued there as a postdoctoral researcher, with a two-month visiting period at Masaryk University in Brno, Czech Republic, working with Prof. Petr Hliněný in spring 2009. In April 2010, he became a junior professor of Algorithm Engineering at Friedrich Schiller University Jena, a position funded by the Carl-Zeiss Foundation. Since April 2013, he has led the Theoretical Computer Science group at Osnabrück University, where he has held a full professorship (W3) since 2017.</p>
+<p>Markus Chimani is a full professor of Theoretical Computer Science at
+Osnabrück University. He studied computer science at TU Vienna, received
+his doctorate from TU Dortmund in 2008, and held a junior professorship
+of Algorithm Engineering at Friedrich Schiller University Jena before
+moving to Osnabrück. His research interest is in combinatorial
+optimization and algorithmics, combining theoretical questions with
+practical evaluations. This in particular includes non-planarity of
+graphs and questions in network design.</p>
 
 <hr>
 
