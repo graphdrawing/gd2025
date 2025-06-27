@@ -200,7 +200,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><a href="#daniel-archambault"><span class="authors"><span>Prof. Dr. Daniel Archambault</span>. </span><span class="title">Machine Learning in Graph Drawing</span></a>
+    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><a href="#daniel-archambault"><span class="authors"><span>Prof. Dr. Daniel Archambault</span>. </span><span class="title">Dimensionality Reduction, Machine Learning, and Graph Drawing</span></a>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
@@ -263,8 +263,8 @@ graphs and questions in network design.</p>
 <p><strong><a href="https://www.ncl.ac.uk/">Newcastle University</a>, United Kingdom</strong></p>
 </div>
 
-<p><strong>Preliminary Title:</strong></p>
-<p>Machine Learning in Graph Drawing</p>
+<p><strong>Title:</strong></p>
+<p>Dimensionality Reduction, Machine Learning, and Graph Drawing</p>
 
 <p><strong>Biography:</strong></p>
 <p>Daniel is a Professor of Visualisation and Data Science at Newcastle University. His research focuses on enabling visualisation and visual analytics systems to scale in the age of data science. He explores key problems in data science and AI, graph drawing, social and complex network analysis, and human-computer interaction, often within interdisciplinary contexts. His work spans the full data-to-human pipeline—from developing algorithms for visualising abstract data to conducting perceptual evaluations of these interfaces with users. His primary interests lie in visual analytics for machine learning and network visualisation.</p>

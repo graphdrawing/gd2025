@@ -25,8 +25,8 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 | Events                            | Dates                 |
 | --------------------------------- | --------------------- |
-| Abstract submission deadline      | June 3, 2025          |
-| Paper submission deadline         | June 10, 2025         |
+| Abstract submission deadline      | ~~June 3, 2025~~          |
+| Paper submission deadline         | ~~June 10, 2025~~         |
 | Notification of paper acceptance  | July 23, 2025         |
 | Poster submission deadline        | August 22, 2025       |
 | Notification of poster acceptance | September 1, 2025     |
