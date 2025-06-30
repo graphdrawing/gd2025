@@ -42,30 +42,41 @@ Several options are available within Europe, such as [Flixbus](https://www.flixb
 
 
 ## Accommodation
+There are many hotels and hostels in central Norrköping, covering a wide range of sizes and prices (typically from about 70 to 140 euros per night). Most are within walking distance of the conference venue. For a broader overview, see [this local guide](https://visit-norrkoping-se.translate.goog/overnatta?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv), [Wikitravel](https://wikitravel.org/en/Norrk%C3%B6ping#Sleep), or [Wikivoyage](https://en.wikivoyage.org/wiki/Norrk%C3%B6ping#Sleep).
 
-Most hotels in Norrköping are within walking distance of the conference venue. You can find an overview [here](https://visit-norrkoping-se.translate.goog/overnatta?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv), [here](https://wikitravel.org/en/Norrk%C3%B6ping#Sleep), or [here](https://en.wikivoyage.org/wiki/Norrk%C3%B6ping#Sleep).
+#### Hotel discount codes
+
+**Scandic Strömmen, Norrköping**
+- Book via home page at [Scandic Strömmen Booking Page](https://www.scandichotels.com/en/hotelreservation/select-rate?room%5B0%5D.adults=1&fromdate=2025-09-24&todate=2025-09-26&hotel=827&bookingCode=PRO10SE)
+- Discount code: **PRO10SE**
+
+**Elite Grand Hotel Norrköping**
+- Book via home page at [Elite Grand Hotel Booking Page](https://www.elite.se/en/?hotel=EL020&checkIn=2025-09-22&checkOut=2025-09-24&guests=1&rooms=1&adults=1&children=&group=gd25&points=false&step=step3packages)
+- Discount code: **GD25** (10% discount valid until September 1, 2025)
+
+**Hotels close to the venue**
+The map below highlights several options, but many more are available. 
+
+If you need more suggestions or want to find a roommate to share accommodation, please contact the local organization chairs. After registering for the conference, you will receive a link to a shared document for this purpose.
+
+- [Scandic Strömmen (★★★★)](https://www.scandichotels.com/en/hotelreservation/select-rate?room%5B0%5D.adults=1&fromdate=2025-09-24&todate=2025-09-26&hotel=827&bookingCode=PRO10SE) (14 min walking distance to the venue)
+- [Elite Grand Hotel Norrköping (★★★★)](https://www.elite.se/en/?hotel=EL020&checkIn=2025-09-22&checkOut=2025-09-24&guests=1&rooms=1&adults=1&children=&group=gd25&points=false&step=step3packages) (10 min walking distance to the venue)
+- Hotel Strand (★★★)  (10 min walking distance to the venue)
+- Hotel President (★★★★) (11 min walking distance to the venue)
+- Hotel Drott (★★★) (8 min walking distance to the venue)
+- Pronova Hostel (12 min walking distance to the venue)
+
+<!-- <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"
+src="https://umap.openstreetmap.fr/en/map/your-map-id-here?scaleControl=true&miniMap=true&scrollWheelZoom=true"></iframe> -->
+
+
+
 
 **Payments in Sweden**
 Sweden is a nearly cashless country. Many places in Sweden like restaurants, cafes, kiosks, pharmacies refuse cash payments and accept cards only. In addition, public transports in most cities do not accept cash payments, either. So you are not likely to need a great deal of hard currency for your stay in Sweden. Instead, it is advisable to have a credit or debit card that can be used to pay expenses outside your country. Please note that in order to pay or withdraw cash with your credit card it requires that you have a card with chip and PIN (Personal Identification Number). The older magnetic-stripe cards won’t work.
 
 For further information see [Currency, credit cards, and money in Sweden](https://visitsweden.com/about-sweden/currency-prices/).
 
-**Discount codes**
-
-To be announced.
-
-**Hotels close to the venue**
-
-The central of Norrköping has many hotels in various sizes and of various price range. The map above suggests a few hotels, ranging from about 70 euros to 140 euros per night. However, there are more hotels and hostels in the central city area.
-
-These are some possible hotels, but many more are available. If you look for suggestions (apart from these), a room mate to share accommodation with, please contact any the local organization chairs and we will provide you with a link to a shared document once you have registered to the conference.
-
-- [Scandic Strömmen](https://www.scandichotels.se/)
-- [Hotel Strand](https://hotellstrand.se/)
-- [Elite Grand Hotel Norrköping](https://www.elite.se/)
-- [Hotel President](https://ligula.se/)
-- [Hotel Drott](https://www.hotelldrott.se/)
-- [Pronova Hostel](https://www.pronovahostel.se)
 
 <!-- A list of accommodations in walking distance to the venue is given below (also marked in the map below).
 - [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/)

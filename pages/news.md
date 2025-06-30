@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[30.06.2025] **Hotel discount codes** are now available! Please visit the [Travel & Accommodation page](../travel_accommodation/#hotel-discount-codes) for details on how to book with special rates. The venue page and further details will be published in a few days. Stay tuned!
+
 [31.05.2025] The PhD School page has been updated with the [Location](../school/#location), [Lecturers](../school/#lecturers), and a Preliminary [Program](../school/#program).
 We are pleased to welcome **Dr. Sara Di Bartolomeo**, **Prof. Dr. Markus Chimani**, **Prof. Dr. Daniel Archambault**, and **Dr. Camilla Forsell** as our lecturers for the GD2025 PhD School. The school will cover topics in network visualization, graph metrics, machine learning, and user evaluations.
 
