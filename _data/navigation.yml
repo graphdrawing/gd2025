@@ -10,9 +10,10 @@ main:
      url: "https://mozart.diei.unipg.it/gdcontest/2025/"
    - title: "Travel & Stay"
      url: /pages/travel_accommodation
+   - title: "Registration"
+     url: /pages/registration
    - title: "News"
      url: /pages/news
-
    - title: "Committees"
      url: /pages/committee
    - title: "Code of Conduct"

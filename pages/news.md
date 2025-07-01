@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[01.07.2025] The registration fees and links to the registration forms are now announced on the [Registration](../registration/) page! Please note that the early registration deadline is **August 26**, 23:59 CEST.
+
 [30.06.2025] **Hotel discount codes** are now available! Please visit the [Travel & Accommodation page](../travel_accommodation/#hotel-discount-codes) for details on how to book with special rates. The venue page and further details will be published in a few days. Stay tuned!
 
 [31.05.2025] The PhD School page has been updated with the [Location](../school/#location), [Lecturers](../school/#lecturers), and a Preliminary [Program](../school/#program).
