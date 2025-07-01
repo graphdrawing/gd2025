@@ -38,25 +38,25 @@ The symposium will take place in the room **Hemerycksalen**:
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; min-width: 180px; text-align: center;">
-    <img src="/assets/images/venue/venue-entrance.png" alt="Entrance to the room Hemerycksalen" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/images/venue/venue-entrance.png" alt="Entrance to the room Hemerycksalen" style="max-width: 100%; height: auto;">
     <div style="font-size: 0.7em;">Entrance to the room Hemerycksalen</div>
   </div>
 
   <div style="flex: 1; min-width: 180px; text-align: center;">
-    <img src="/assets/images/venue/venue-room-3d-loc.png" alt="3D location of Hemerycksalen within the venue" style="max-width: 80%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/images/venue/venue-room-3d-loc.png" alt="3D location of Hemerycksalen within the venue" style="max-width: 80%; height: auto;">
     <div style="font-size: 0.7em;">3D location of Hemerycksalen</div>
   </div>
 </div>
 
-  <div style="flex: 1; min-width: 180px; text-align: center;">
-    <img src="/assets/images/venue/venue-inside.png" alt="Inside view of Hemerycksalen" style="max-width: 100%; height: auto;">
-    <div style="font-size: 0.7em;">Inside view of Hemerycksalen</div>
-  </div>
+<div style="flex: 1; min-width: 180px; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/venue/venue-inside.png" alt="Inside view of Hemerycksalen" style="max-width: 100%; height: auto;">
+  <div style="font-size: 0.7em;">Inside view of Hemerycksalen</div>
+</div>
 
-  <div style="flex: 1; min-width: 180px; text-align: center;">
-    <img src="/assets/images/venue/venue-outside.png" alt="Outside area of the venue" style="max-width: 100%; height: auto;">
-    <div style="font-size: 0.7em;">Outside area of the venue</div>
-  </div>
+<div style="flex: 1; min-width: 180px; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/venue/venue-outside.png" alt="Outside area of the venue" style="max-width: 100%; height: auto;">
+  <div style="font-size: 0.7em;">Outside area of the venue</div>
+</div>
 
 #### Lunch & Breaks
 
