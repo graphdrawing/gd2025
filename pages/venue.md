@@ -62,8 +62,7 @@ The symposium will take place in the room **Hemerycksalen**:
 
 Lunch and coffee breaks will be held in the adjacent **Trozelli Gallery** and **Trozelli Lounge**, which offer beautiful views of Strömmen's dams and waterfalls.
 
-![Lunch Area](/assets/images/venue/venue-lunch.png)
-
+![Lunch Area]({{ site.baseurl }}/assets/images/venue/venue-lunch.png)
 
 #### Reception & Registration
 
