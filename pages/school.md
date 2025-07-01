@@ -149,6 +149,12 @@ toc: true
 ## Location
 The PhD school takes place in the room <a href="https://use.mazemap.com/#v=1&config=liu&campusid=754&zlevel=4&center=16.176053,58.590299&zoom=18&sharepoitype=poi&sharepoi=1000903828" target="_blank">Teaching Room TP42</a> of Linköping University Campus Norrköping, which is located on the 4nd floor of the building Täppan of Campus Norrköping.
 
+
+Address: \\
+Linköpings universitet, Campus Norrköping \\
+Bredgatan 34, 602 47 Norrköping
+
+
 <div style="display: flex; flex-direction: column; gap: 20px; margin: 0;">
   <div style="width: 100%;">
     <h4>Google Maps Location</h4>

@@ -14,6 +14,8 @@ main:
      url: /pages/registration
    - title: "News"
      url: /pages/news
+   - title: "Venue"
+     url: /pages/venue
    - title: "Committees"
      url: /pages/committee
    - title: "Code of Conduct"

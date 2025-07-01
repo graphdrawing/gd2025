@@ -78,6 +78,15 @@ Sweden is a nearly cashless country. Many places in Sweden like restaurants, caf
 For further information see [Currency, credit cards, and money in Sweden](https://visitsweden.com/about-sweden/currency-prices/).
 
 
+### Overview of all the locations
+
+**🔴 Red markers:** Event venues  \\
+**🔵 Blue markers:** Hotel options \\
+**🟢 Green marker:** Norrköping Central Station
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1lRRr2Cl_jn9kn8ZEn04JcErI_Ydc9po" width="100%" height="480"></iframe>
+
+
 <!-- A list of accommodations in walking distance to the venue is given below (also marked in the map below).
 - [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/)
 
