@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[24.07.2025] The list of accepted papers is now available on the [Accepted Papers](../accepted_papers/) page.
+
 [01.07.2025] The registration fees and **links to the registration forms** are now announced on the [Registration](../registration/) page! Please note that the early registration deadline is **August 26**, 23:59 CEST.
 
 We have also added information about the [venues](../venue/), including the locations for the main symposium, lunch, social dinner, and the Graph Drawing Contest. More details will be published soon. Stay tuned!

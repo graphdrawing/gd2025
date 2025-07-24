@@ -2,22 +2,25 @@
 main:
    - title: "Call for Papers"
      url: /pages/cfp
+
    - title: "Invited Speakers"
      url: /pages/speaker
    - title: "PhD School"
      url: /pages/school
    - title: "Contest &nbsp;<i class='fas fa-external-link-alt fa-sm'></i>"
      url: "https://mozart.diei.unipg.it/gdcontest/2025/"
-   - title: "Travel & Stay"
-     url: /pages/travel_accommodation
    - title: "Registration"
      url: /pages/registration
+   - title: "Travel & Stay"
+     url: /pages/travel_accommodation
    - title: "Venue"
      url: /pages/venue
-   - title: "News"
-     url: /pages/news
    - title: "Committees"
      url: /pages/committee
+   - title: "Accepted Papers"
+     url: /pages/accepted_papers
+   - title: "News"
+     url: /pages/news
    - title: "Code of Conduct"
      url: /pages/code_of_conduct
   

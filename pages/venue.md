@@ -3,11 +3,12 @@
 layout: single
 title: "Venue"
 header:
-    image: /assets/images/teaser/gd2025/venue-teaser.png
-    caption: "Image credit: [**© louisdegeer.se**](https://louisdegeer.se/konferens/)"
+    image: /assets/images/teaser/gd2025/venue-teaser1.png
+    caption: "Image credit: [**Organizer**](https://ivis.itn.liu.se/)"
 # last_modified_at: 2023-07-24
 toc: true
 ---
+
 
 ## Conference Venue
 
@@ -58,11 +59,17 @@ The symposium will take place in the room **Hemerycksalen**:
   <div style="font-size: 0.7em;">Outside area of the venue</div>
 </div>
 
+<div style="font-size: 0.6em; color: #666;">photo credit: louisdegeer.se</div>
+
 #### Lunch & Breaks
 
 Lunch and coffee breaks will be held in the adjacent **Trozelli Gallery** and **Trozelli Lounge**, which offer beautiful views of Strömmen's dams and waterfalls.
 
-![Lunch Area]({{ site.baseurl }}/assets/images/venue/venue-lunch.png)
+<div style="flex: 1; min-width: 180px; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/venue/venue-lunch.png" alt="Lunch Area" style="max-width: 100%; height: auto;">
+  <div style="font-size: 0.6em; color: #666;">photo credit: louisdegeer.se</div>
+</div>
+
 
 #### Reception & Registration
 
@@ -79,6 +86,21 @@ The welcome reception details will be announced closer to the conference date.
 
 ### Social Dinner
 The social dinner will be held at **Visualization Center C**, just an 8-minute walk from the main symposium venue and 10–15 minutes from many hotels in Norrköping.
+
+
+#### Dome Show at Visualization Center C
+Following the social dinner, guests are welcome to attend an included dome show at Wisdome Norrköping, located in the same building. Experience one of the world's most advanced immersive theaters. For more details, see the [Wisdome website](https://visualiseringscenter.se/en/wisdome/).
+
+
+<div style="display: flex; gap: 20px; margin-bottom: 40px; justify-content: center; align-items: flex-start;">
+  <div style="width: 60%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/venue/vis_center.png" alt="Visualization Center C" style="max-width: 100%; height: auto;">
+  </div>
+  
+  <div style="width: 40%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/venue/dome_show.jpg" alt="Dome show at Wisdome" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 **Social Dinner Address:** \\
 Visualization Center C \\
@@ -137,6 +159,7 @@ Norra Grytsgatan 10, 602 33 Norrköping, Sweden
 <a href="https://liu.se/en/research/norrkoping-decision-arena#" target="_blank">Visit Norrköping Decision Arena Website</a>
 </p>
 
+<hr>
 
 ### Overview of all the locations
 
