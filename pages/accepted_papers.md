@@ -129,7 +129,7 @@ usemathjax: true
 
 ## Track 1: Combinatorial and algorithmic aspects
 
-- <span class="authors"><span>Tomasz Krawczyk</span>.</span><span class="title"> On the structure of normalized circular-arc graphs</span>
+- <span class="authors"><span>Tomasz Krawczyk</span>.</span><span class="title"> On the structure of normalized models of circular arc graphs I.</span>
 - <span class="authors"><span>Oswin Aichholzer, Joseph Dorfer and Birgit Vogtenhuber</span>.</span><span class="title"> Constrained Flips in Plane Spanning Trees</span>
 - <span class="authors"><span>Giuseppe Di Battista, Giuseppe Liotta, Maurizio Patrignani, Antonios Symvonis and Ioannis Tollis</span>.</span><span class="title"> Tangling and Untangling Trees on Point-sets</span>
 - <span class="authors"><span>Md. Jawaherul Alam, Michael Bekos, Martin Gronemann and Michael Kaufmann</span>.</span><span class="title"> The Page Number of Monotone Directed Acyclic Outerplanar Graphs is Four or Five</span>
@@ -146,7 +146,6 @@ usemathjax: true
 - <span class="authors"><span>Maria Chudnovsky, David Eppstein and David Fischer</span>.</span><span class="title"> Sparse Obstacles for String Graphs</span>
 - <span class="authors"><span>Oswin Aichholzer, Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and Alexandra Weinberger</span>.</span><span class="title"> Characterizing and Recognizing Twistedness</span>
 - <span class="authors"><span>Rafał Pyzik</span>.</span><span class="title"> Treewidth of Outer k-Planar Graphs</span>
-- <span class="authors"><span>Jacob Fox, Janos Pach and Andrew Suk</span>.</span><span class="title"> From local pair-crossing number to local crossing number</span>
 - <span class="authors"><span>Benedikt Hahn, Torsten Ueckerdt and Birgit Vogtenhuber</span>.</span><span class="title"> Edge densities of drawings of graphs with one forbidden cell</span>
 - <span class="authors"><span>Florestan Brunck, Hsien-Chih Chang, Maarten Löffler, Tim Ophelders and Lena Schlipf</span>.</span><span class="title"> Reconfiguration in Curve Arrangements to Reduce Self-Intersections and Popular Faces</span>
 
@@ -177,7 +176,7 @@ usemathjax: true
 - <span class="authors"><span>Alexander Dobler, Maximilian Holzmüller and Martin Nöllenburg</span>.</span><span class="title"> Geometry Matters in Planar Storyplans</span>
 - <span class="authors"><span>David Eppstein</span>.</span><span class="title"> Stabbing Faces By a Convex Curve</span>
 - <span class="authors"><span>Debajyoti Mondal</span>.</span><span class="title"> Layered Polyline Drawings of Planar Graphs</span>
-
+- <span class="authors"><span>Jacob Fox, Janos Pach and Andrew Suk</span>.</span><span class="title"> From local pair-crossing number to local crossing number</span>
 
 
 
