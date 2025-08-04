@@ -91,13 +91,26 @@ He worked on different topics in parameterized algorithms and complexity, and gr
 <p> <strong><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>, Hong Kong</strong> </p>
 </div>
 
-<p> <strong> Title & Abstract: </strong> </p>
-<p> (Track 2) To be announced, please check back later. </p>
+<p> <strong> Title: </strong></p> 
+<p>Transforming Graph Visualization through AI and Human-AI Collaboration </p>
+<p> <strong>Abstract: </strong> </p>
+
+<p>
+
+In recent years, the intersection of artificial intelligence (AI) and graph visualization has led to advancements that enhance our ability to analyze and interpret complex data. In this talk, I will explore how AI and human-AI collaboration have transformed graph visualization, focusing on three key themes: efficiency in graph visualization, the integration of data storytelling, and the creative potential of human-AI partnerships.
+<br><br>
+In the first part of my talk, I will discuss how AI has been employed to create more efficient graph visualizations. I will highlight our innovative deep learning-based method for assessing the readability of graph layouts directly from images. This approach overcomes the limitations of traditional readability metrics, allowing for a more efficient evaluation of graph aesthetics, particularly in dense networks.
+<br><br>
+Next, I will delve into the application of graph visualization in data storytelling and virtual reality (VR) environments. I will present how tangible interactions can enhance live presentations of network visualizations, showcasing the effectiveness of intuitive physical interactions in engaging audiences. Additionally, I will discuss the development of semi-automatic data tours that guide users through complex networks, making exploration more intuitive and less time-consuming.
+<br><br>
+In the final section of my talk, I will focus on the creative aspects of human-AI collaboration in graph visualization. I will examine how generative AI techniques are reshaping the roles of humans and AI in the storytelling process, discussing the shift from human creators to AI-assisted storytelling. This evolution leads to innovative visualization techniques and highlights emerging collaboration patterns that enhance the storytelling experience.
+<br><br>
+By addressing these themes, my talk will illustrate the impact of AI and human-AI collaboration on graph visualization, highlighting both the opportunities and challenges that lie ahead in this rapidly evolving field. </p>
 
 <p> <strong> Biography: </strong> </p>
-<p> Huamin Qu is the dean of the Academy of Interdisciplinary Studies (AIS) and the head of the Division of Emerging Interdisciplinary Areas (EMIA) at the Hong Kong University of Science and Technology (HKUST). He is also a chair professor in the Department of Computer Science and Engineering (CSE). Prof. Qu holds a BS in Mathematics from Xi'an Jiaotong University and an MS and PhD in Computer Science from Stony Brook University. <br> <br>
-
-His research focuses on visualization and human-computer interaction, covering urban informatics, social network analysis, E-learning, text visualization, and explainable artificial intelligence (XAI). He has co-authored approximately 300 refereed papers, with over 100 published in the IEEE Transactions on Visualization and Computer Graphics, making him one of the journal's most productive researchers. Prof. Qu has received many awards, including 20 paper awards, the IEEE VGTC Technical Achievement Award and the AI 2000 Most Influential Scholar in Visualization Award. He has led multiple large-scale research projects and graduated 47 PhD students, many of whom are now faculty members at major universities worldwide.</p>
+<p> Professor Huamin Qu is the founding dean of the Academy of Interdisciplinary Studies (AIS) and a chair professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). He joined the university in 2004 and established the VisLab, which has grown into one of the largest visualization laboratories in the world, with over 70 doctoral graduates and current students. Notably, more than 30 of the VisLab alumni are now faculty members at universities in China, the United States, the United Kingdom, France, and Singapore.
+<br><br>
+His recent research focuses on human-AI collaboration, where he has made significant contributions in areas such as explainable AI and creative visualization generation. His work has received many honors, including the IEEE VGTC Visualization Technical Achievement Award, the AI 2000 Most Influential Scholar Award, the IBM Faculty Award, and over 20 Best Paper Awards or Honorable Mentions at leading conferences such as ACM CHI, IEEE VIS, IEEE VR, and ACM Multimedia. In 2020, he was inducted into the IEEE Visualization Academy.</p>
 
 
 

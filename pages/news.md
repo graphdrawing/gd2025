@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[04.08.2025] The [Invited Speakers](../speaker/) page has been updated with **keynote talk titles and abstracts** by Prof. Dr. Huamin Qu and Prof. Dr. Hans Bodlaender.
+
 [24.07.2025] The list of accepted papers is now available on the [Accepted Papers](../accepted_papers/) page.
 
 [01.07.2025] The registration fees and **links to the registration forms** are now announced on the [Registration](../registration/) page! Please note that the early registration deadline is **August 26**, 23:59 CEST.
