@@ -12,6 +12,10 @@ header:
 
 ## September 24–26, 2025 · Norrköping, Sweden
 
+
+**Registration is now open** • Early registration deadline: August 26, 23:59 CEST \\
+[Register Now](../pages/registration/#registration-instructions) • [View Fees](../pages/registration/#registration-fees) • [Travel & Stay](../pages/travel_accommodation/)
+
 ## About Graph Drawing 2025
 
 Graph Drawing is concerned with the geometric representation of graphs and constitutes the algorithmic core of Network Visualization. Graph Drawing and Network Visualization are motivated by applications where it is crucial to visually analyze and interact with relational datasets. Examples of such application areas include data science, social sciences, Web computing, information systems, biology, geography, business intelligence, information security and software engineering.
