@@ -44,5 +44,7 @@ Symposium registration is carried out through the following forms:
 
 Participation in the **PhD school** and an **extra banquet ticket** can be selected as extra options while registering for the symposium using the links above.
 
-Payment is made by invoice/bank transfer via the payment solution Billecta or secure card payment through the payment service SwePay (supporting debit and credit card payments with VISA, MasterCard, or Maestro). 25% VAT is included according to Swedish legislation and routines. The information about the registration cancellation and changes policy is available within the registration form pages. 
+Payment is made by invoice/bank transfer via the payment solution Billecta or secure card payment through the payment service SwePay (supporting debit and credit card payments with VISA, MasterCard, or Maestro). 25% VAT is included according to Swedish legislation and routines. The information about the registration cancellation and changes policy is available within the registration form pages.
+
+**Payment Method Note:** Credit card payments (VISA, MasterCard, or Maestro) are the preferred and more cost-effective option for participants. Invoice/bank transfer payments require an additional administrative fee of 125 SEK. We recommend selecting credit card payment if one wants to avoid this extra charge. 
 

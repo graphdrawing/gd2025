@@ -14,7 +14,7 @@ header:
 
 
 **Registration is now open** • Early registration deadline: August 26, 23:59 CEST \\
-[Register Now](../pages/registration/#registration-instructions) • [View Fees](../pages/registration/#registration-fees) • [Travel & Stay](../pages/travel_accommodation/)
+[Register Now](../registration/#registration-instructions) • [View Fees](../registration/#registration-fees) • [Travel & Stay](../travel_accommodation/)
 
 ## About Graph Drawing 2025
 
