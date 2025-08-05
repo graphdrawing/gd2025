@@ -91,15 +91,16 @@ The social dinner will be held at **Visualization Center C**, just an 8-minute w
 #### Dome Show at Visualization Center C
 Following the social dinner, guests are welcome to attend an included dome show at Wisdome Norrköping, located in the same building. Experience one of the world's most advanced immersive theaters. For more details, see the [Wisdome website](https://visualiseringscenter.se/en/wisdome/).
 
-
-<div style="display: flex; gap: 20px; margin-bottom: 40px; justify-content: center; align-items: flex-start;">
-  <div style="width: 60%; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/venue/vis_center.png" alt="Visualization Center C" style="max-width: 100%; height: auto;">
-  </div>
-  
-  <div style="width: 40%; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/venue/dome_show.jpg" alt="Dome show at Wisdome" style="max-width: 100%; height: auto;">
-  </div>
+<div style="margin-bottom: 40px; text-align: center;">
+    <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
+        <div style="width: 60%; text-align: center;">
+            <img src="{{ site.baseurl }}/assets/images/venue/vis_center.png" alt="Visualization Center C" style="max-width: 100%; height: auto;">
+        </div>
+        <div style="width: 40%; text-align: center;">
+            <img src="{{ site.baseurl }}/assets/images/venue/dome_show.jpg" alt="Dome show at Wisdome" style="max-width: 100%; height: auto;">
+        </div>
+    </div>
+    <div style="font-size: 0.6em; color: #666;">Left: Entrance to the social dinner venue; Right: Photo of a dome show at the venue (right photo credit: visualiseringscenter.se)</div>
 </div>
 
 **Social Dinner Address:** \\
@@ -118,6 +119,7 @@ Kungsgatan 54, 602 33 Norrköping, Sweden
 <a href="https://www.google.com/maps/place/Visualization+Center+C/@58.58809,16.1822391,577m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46593bcaa2cdb01d:0x37c29c22fba42ac5!8m2!3d58.58809!4d16.1848194!16s%2Fm%2F04ctzk2?entry=ttu" target="_blank">Open in Google Maps</a>
 <a href="https://visualiseringscenter.se/en/visit/" target="_blank">Visit Visualization Center C Website</a>
 </p>
+
 
 <hr>
 

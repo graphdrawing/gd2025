@@ -38,7 +38,7 @@ The fees for the PhD School only cover the participation at the lectures and the
 <ul style="margin-top: 0;">
 <li><strong>Student:</strong> Reserved for students without a completed PhD or an equivalent degree</li>
 <li><strong>Steering Committee:</strong> Should only be selected by GD SC members</li>
-<li><strong>VAT:</strong> 25% VAT already included in all fees above</li>
+<li>25% VAT already included in all fees above</li>
 </ul>
 
 

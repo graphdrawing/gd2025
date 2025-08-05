@@ -40,6 +40,10 @@ From Nyköping there is a frequent [airport coach service](https://www.flygbussa
 
 Several options are available within Europe, such as [Flixbus](https://www.flixbus.se/). [Vy bus](https://www.vybuss.com/) also provide service within Sweden.
 
+## Visa
+For requests of invitation letters related to the issuance of a Swedish Visa, please contact liu@way.se after registering.
+
+
 
 ## Accommodation
 There are many hotels and hostels in central Norrköping, covering a wide range of sizes and prices (typically from about 70 to 140 euros per night). Most are within walking distance of the conference venue. For a broader overview, see [this local guide](https://visit-norrkoping-se.translate.goog/overnatta?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv), [Wikitravel](https://wikitravel.org/en/Norrk%C3%B6ping#Sleep), or [Wikivoyage](https://en.wikivoyage.org/wiki/Norrk%C3%B6ping#Sleep).
