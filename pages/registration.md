@@ -33,7 +33,14 @@ The fees for the PhD School only cover the participation at the lectures and the
 | Regular                     | SEK 1000                            | SEK 1000                          |
 |-----------------------------|-------------------------------------|-----------------------------------|
 
-The Student status is reserved for students without a completed PhD or an equivalent degree. The Steering Committee registration option should only be selected by GD SC members. The fees are stated including 25% VAT.
+
+<p style="margin-bottom: 0.5em; margin-top: 1.5em;">Registration Categories:</p>
+<ul style="margin-top: 0;">
+<li><strong>Student:</strong> Reserved for students without a completed PhD or an equivalent degree</li>
+<li><strong>Steering Committee:</strong> Should only be selected by GD SC members</li>
+<li><strong>VAT:</strong> 25% VAT already included in all fees above</li>
+</ul>
+
 
 ## Registration Instructions
 Symposium registration is carried out through the following forms:
@@ -44,16 +51,23 @@ Symposium registration is carried out through the following forms:
 
 Participation in the **PhD school** and an **extra banquet ticket** can be selected as extra options while registering for the symposium using the links above.
 
-### Payment Options
+<p style="margin-bottom: 0.5em; margin-top: 1.5em;">Payment Options:</p>
+<ul style="margin-top: 0;">
+<li><strong>Credit Card Payment (Recommended)</strong>
+  <ul>
+  <li>Secure card payment processed through SwePay</li>
+  <li>Accepts debit and credit card payments with VISA, MasterCard, and Maestro</li>
+  </ul>
+</li>
+<li><strong>Invoice/Bank Transfer</strong>
+  <ul>
+  <li>Processed through the payment solution Billecta</li>
+  <li><strong>Additional administrative fee: 125 SEK</strong></li>
+  </ul>
+</li>
+</ul>
 
-- **Credit Card Payment (Recommended)**
-  - Secure card payment processed through SwePay 
-  - Accepts debit and credit card payments with VISA, MasterCard, and Maestro
-
-- **Invoice/Bank Transfer**
-  - Processed through the payment solution Billecta
-  - **Additional administrative fee: 125 SEK**
-
-- 25% VAT is included in all fees according to Swedish legislation.
-- Registration cancellation and changes policy information is available within the registration form pages.
-
+<ul>
+<li>25% VAT is included in all fees according to Swedish legislation.</li>
+<li>Registration cancellation and changes policy information is available within the registration form pages.</li>
+</ul>
