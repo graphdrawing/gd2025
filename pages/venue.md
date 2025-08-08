@@ -71,9 +71,24 @@ Lunch and coffee breaks will be held in the adjacent **Trozelli Gallery** and **
 </div>
 
 
-#### Reception & Registration
+#### Welcome Reception
 
-The welcome reception details will be announced closer to the conference date.
+The welcome reception is on **Tuesday, September 23 from 19:00 to 21:00,** held at **VY NKPG Skybar**, just an 5-minute walk from the PhD school venue and 10–15 minutes from many hotels in Norrköping.
+
+**Reception Address:**\\
+Vy\\
+Laxholmen, 602 21 Norrköping\\
+Located in: Museum of Work
+<iframe width="100%" height="300" frameborder="0" style="border:0" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=Vy,Norrköping,Sweden"></iframe>
+<p style="display: flex; justify-content: space-between;">
+<a href="https://www.google.com/maps/place/Vy/@58.5891599,16.1772312,17z/data=!3m1!4b1!4m6!3m5!1s0x46593b4fd9550dbd:0x625d8a3d5412d90c!8m2!3d58.5891571!4d16.1798115!16s%2Fg%2F1yh9trqcs?entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D" target="_blank">Open in Google Maps</a>
+<a href="https://vynkpg.se/" target="_blank">Visit VY NKPG Skybar Website</a>
+</p>
+
+#### Registration
+
+Location to be announced.
+
 
 #### Access to the Venue
 -   The main symposium venue is centrally located in Norrköping and is easily accessible on foot.
