@@ -2,7 +2,8 @@
 main:
    - title: "Call for Papers"
      url: /pages/cfp
-
+   - title: "Program"
+     url: /pages/program
    - title: "Invited Speakers"
      url: /pages/speaker
    - title: "PhD School"
