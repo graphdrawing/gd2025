@@ -15,10 +15,15 @@ toc: true
     display: table;
     table-layout: fixed;
   }
-  thead.day-header {
-    position: sticky;
-    top: 0px;
-  }
+thead.day-header {
+  position: sticky;
+  top: 0px;
+  font-size: 1em; /* Normal readable size for detailed tables */
+  font-weight: bold;
+  text-align: center;
+  padding: 8px;
+  background-color: #f5f5f5;
+}
   th { text-align: center; }
   tbody > tr:hover { background-color: #dadada; }
 
@@ -175,11 +180,22 @@ toc: true
 ## Program Overview
 
 <style>
-.timeline-container {
-  width: 100%;
-  margin: 20px 0;
-  font-size: 0.9em;
-  overflow-x: auto;
+.day-header-detailed {
+    position: sticky;
+      top: 0px;
+  background-color: #f5f5f5;
+  padding: 4px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  border-bottom: 1px solid #ddd;
+  height: 30px;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.1;
 }
 
 .time-axis {
@@ -625,7 +641,7 @@ function scrollToSection(sectionId) {
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead class="day-header">
+  <thead class="day-header-detailed">
     <tr><th colspan=2>Monday, September 22</th></tr>
   </thead>
   <tbody>
@@ -656,7 +672,7 @@ function scrollToSection(sectionId) {
 
 <table id="tuesday">
   <colgroup><col width="25%"/><col width="75%"/></colgroup>
-  <thead class="day-header"><tr><th colspan=2>Tuesday, September 23</th></tr></thead>
+  <thead class="day-header-detailed"><tr><th colspan=2>Tuesday, September 23</th></tr></thead>
   <tbody>
         <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
         <!-- Morning PhD School -->
@@ -693,7 +709,7 @@ function scrollToSection(sectionId) {
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead class="day-header">
+  <thead class="day-header-detailed">
     <tr><th colspan=2>Wednesday, September 24</th></tr>
   </thead>
   <tbody>
@@ -737,7 +753,7 @@ function scrollToSection(sectionId) {
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead class="day-header">
+  <thead class="day-header-detailed">
     <tr><th colspan=2>Thursday, September 25</th></tr>
   </thead>
   <tbody>
@@ -779,7 +795,7 @@ function scrollToSection(sectionId) {
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead class="day-header">
+  <thead class="day-header-detailed">
     <tr><th colspan=2>Friday, September 26</th></tr>
   </thead>
   <tbody>
