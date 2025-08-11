@@ -148,13 +148,20 @@ thead.day-header {
   ul.poster-list > li { font-size: inherit !important; }
   span.speaker { text-decoration: underline; }
   
-  /* Collapsible session styles */
-  .session-header, .phd-school-header {
+  /* Collapsible session styles - Only show triangles for collapsible rows */
+  /* Target ALL possible header types */
+  tr.session.header, tr.poster.header, tr.phd-school.header, tr.gdc {
     cursor: pointer;
     position: relative;
   }
   
-  .session-header::after, .phd-school-header::after {
+  /* Show triangles ONLY for rows with collapsible class */
+  /* Use ONLY the cell approach for better Safari compatibility */
+  tr.collapsible td:last-child {
+    position: relative;
+  }
+  
+  tr.collapsible td:last-child::after {
     content: '▼';
     position: absolute;
     right: 10px;
@@ -163,9 +170,11 @@ thead.day-header {
     transition: transform 0.3s ease;
     font-size: 12px;
     color: inherit;
+    z-index: 10;
+    pointer-events: none;
   }
   
-  .session-header.collapsed::after, .phd-school-header.collapsed::after {
+  tr.collapsible.collapsed td:last-child::after {
     transform: translateY(-50%) rotate(-90deg);
   }
   
@@ -175,6 +184,33 @@ thead.day-header {
   
   .session-content.collapsed {
     display: none;
+  }
+  
+  /* Additional mobile and Safari compatibility fixes */
+  @media (max-width: 768px) {
+    /* Target collapsible rows for mobile */
+    tr.collapsible td:last-child::after {
+      right: 5px;
+      font-size: 10px;
+    }
+  }
+  
+  /* Safari-specific fixes */
+  @supports (-webkit-appearance: none) {
+    tr.collapsible td:last-child {
+      overflow: visible;
+    }
+    
+    /* Force hardware acceleration for Safari */
+    tr.collapsible td:last-child::after {
+      -webkit-transform: translateY(-50%);
+      -webkit-backface-visibility: hidden;
+      -webkit-perspective: 1000px;
+    }
+    
+    tr.collapsible.collapsed td:last-child::after {
+      -webkit-transform: translateY(-50%) rotate(-90deg);
+    }
   }
 </style>
 ## Program Overview
@@ -190,7 +226,7 @@ thead.day-header {
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
   height: 30px;
-  min-width: 250px;
+  min-width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -565,11 +601,11 @@ function generateDayColumns() {
       
       eventBlock.innerHTML = content;
       
-      // Add click handler
-      eventBlock.onclick = () => {
-        const dayId = day.name.toLowerCase();
-        scrollToSection(dayId);
-      };
+    //   // Add click handler
+    //   eventBlock.onclick = () => {
+    //     const dayId = day.name.toLowerCase();
+    //     scrollToSection(dayId);
+    //   };
       
       // Add hover handlers for dynamic height adjustment
       eventBlock.addEventListener('mouseenter', function() {
@@ -649,7 +685,7 @@ function scrollToSection(sectionId) {
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration</td></tr>
     <tr class="phd-school header schedule-link" id="phd-school-sara" schedule-link-start="2025-09-22T09:00" schedule-link-end="2025-09-22T12:00" schedule-link-text="PhD School &mdash; Sara Di Bartolomeo">
       <td>09:00 &mdash; 12:00</td>
-      <td><strong><a href="../phd_school/#sara-di-bartolomeo">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
+      <td><strong><a href="../school/#sara-di-bartolomeo">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
         <span class="authors">Dr. Sara Di Bartolomeo</span>. <span class="title">Information Visualization Perspective on Network Visualization</span>
       </td>
     </tr>
@@ -659,7 +695,7 @@ function scrollToSection(sectionId) {
     <tr ><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
     <tr class="phd-school header schedule-link" id="phd-school-markus" schedule-link-start="2025-09-22T14:00" schedule-link-end="2025-09-22T17:00" schedule-link-text="PhD School &mdash; Markus Chimani">
       <td>14:00 &mdash; 17:00</td>
-      <td><strong><a href="../phd_school/#markus-chimani">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
+      <td><strong><a href="../school/#markus-chimani">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
         <span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Metrics Evaluations for Graphs</span>
       </td>
     </tr>
@@ -678,7 +714,7 @@ function scrollToSection(sectionId) {
         <!-- Morning PhD School -->
         <tr class="phd-school header schedule-link" id="phd-school-daniel" schedule-link-start="2025-09-23T09:00" schedule-link-end="2025-09-23T12:00" schedule-link-text="PhD School &mdash; Daniel Archambault">
         <td>09:00 &mdash; 12:00</td>
-        <td><strong><a href="../phd_school/#daniel-archambault">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
+        <td><strong><a href="../school/#daniel-archambault">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
             <span class="authors">Prof. Dr. Daniel Archambault</span>. <span class="title">Dimensionality Reduction, Machine Learning, and Graph Drawing</span>
         </td>
         </tr>
@@ -689,7 +725,7 @@ function scrollToSection(sectionId) {
         <!-- Afternoon PhD School -->
         <tr class="phd-school header schedule-link" id="phd-school-camilla" schedule-link-start="2025-09-23T14:00" schedule-link-end="2025-09-23T17:00" schedule-link-text="PhD School &mdash; Camilla Forsell">
         <td>14:00 &mdash; 17:00</td>
-        <td><strong><a href="../phd_school/#camilla-forsell">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
+        <td><strong><a href="../school/#camilla-forsell">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
             <span class="authors">Dr. Camilla Forsell</span>. <span class="title">User Evaluations in Graph Drawing</span>
         </td>
         </tr>
@@ -837,20 +873,70 @@ function scrollToSection(sectionId) {
   }
 }
 
+// Function to check if a header has collapsible content
+function checkForCollapsibleContent(header) {
+  // Get the session time range from the header
+  const headerTimeCell = header.querySelector('td:first-child');
+  const headerTimeText = headerTimeCell.textContent.trim();
+  
+  // Extract start and end times (e.g., "09:00 &mdash; 12:00" -> start: "09:00", end: "12:00")
+  // Handle both regular dash and HTML entity &mdash;
+  let timeMatch = headerTimeText.match(/(\d{2}:\d{2})\s*[—–-]\s*(\d{2}:\d{2})/);
+  
+  // If no time match in first column, try second column
+  if (!timeMatch) {
+    const secondColumn = header.querySelector('td:nth-child(2)');
+    if (secondColumn) {
+      const secondColumnText = secondColumn.textContent.trim();
+      timeMatch = secondColumnText.match(/(\d{2}:\d{2})\s*[—–-]\s*(\d{2}:\d{2})/);
+    }
+  }
+  
+  if (!timeMatch) {
+    return false; // No time range found, can't be collapsible
+  }
+  
+  const sessionStartTime = timeMatch[1];
+  const sessionEndTime = timeMatch[2];
+  
+  // Check if there are any subsequent rows within the time range
+  let nextRow = header.nextElementSibling;
+  while (nextRow && nextRow.parentNode === header.parentNode) {
+    // Stop if we hit another header
+    if (nextRow.classList.contains('header')) break;
+    
+    // Check if this row belongs to the session
+    const rowTimeCell = nextRow.querySelector('td:first-child');
+    if (rowTimeCell) {
+      const rowTimeText = rowTimeCell.textContent.trim();
+      const rowTimeMatch = rowTimeText.match(/(\d{2}:\d{2})/);
+      if (rowTimeMatch) {
+        const rowStartTime = rowTimeMatch[1];
+        // If row time is within session time range, this header has collapsible content
+        if (rowStartTime >= sessionStartTime && rowStartTime < sessionEndTime) {
+          return true;
+        }
+      }
+    }
+    nextRow = nextRow.nextElementSibling;
+  }
+  
+  return false; // No collapsible content found
+}
+
 // Collapsible session functionality
 document.addEventListener('DOMContentLoaded', function() {
-  // Find all session headers and PhD school headers (exclude invited talks)
-  const collapsibleHeaders = document.querySelectorAll('tr.session.header, tr.poster.header, tr.phd-school.header');
+  // Find ALL possible collapsible headers (including gdc)
+  const collapsibleHeaders = document.querySelectorAll('tr.session.header, tr.poster.header, tr.phd-school.header, tr.gdc');
   
   collapsibleHeaders.forEach(header => {
-    // Add appropriate CSS class for styling
-    if (header.classList.contains('phd-school')) {
-      header.classList.add('phd-school-header');
-    } else {
-      header.classList.add('session-header');
-    }
+    // Check if this header actually has collapsible content
+    const hasCollapsibleContent = checkForCollapsibleContent(header);
     
-
+    // Only add triangle and click functionality if there's collapsible content
+    if (hasCollapsibleContent) {
+      header.classList.add('collapsible');
+    }
     
     // Add click functionality
     header.addEventListener('click', function() {
