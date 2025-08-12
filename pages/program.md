@@ -459,7 +459,7 @@ const timelineData = {
         { start: "14:00", end: "14:55", type: "session", title: "Session 3", location: "Hemerycksalen", details: "Chair: TBA" },
         { start: "14:55", end: "16:15", type: "special", title: "Posters", location: "Location TBA", details: "Poster Session & Software Exhibition" },
         { start: "16:15", end: "17:00", type: "session", title: "Session 4", location: "Hemerycksalen", details: "Best Paper Session" },
-        { start: "17:00", end: "18:30", type: "special-highlight", title: "GD Live Challenge", location: "Hemerycksalen" }
+        { start: "17:00", end: "18:30", type: "special-highlight", title: "GD Live Challenge", location: "Hemerycksalen", link: "https://mozart.diei.unipg.it/gdcontest/2025/" }
       ]
     },
     {
@@ -780,7 +780,7 @@ function scrollToSection(sectionId) {
         <tr class="session"><td>16:15 &mdash; 16:20</td><td>Introduction to best papers</td></tr>
         <tr class="session light"><td>16:20 &mdash; 16:40</td><td>Title TBA <span class="track">[T1]</span></td></tr>
         <tr class="session"><td>16:40 &mdash; 17:00</td><td>Title TBA <span class="track">[T2]</span></td></tr>
-   <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GD Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="" target="_blank">GD Live Challenge</a> (<span class="room-info">Hemerycksalen</span>)</strong></td></tr>
+   <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GD Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2025/" target="_blank">GD Live Challenge</a> (<span class="room-info">Hemerycksalen</span>)</strong></td></tr>
   </tbody>
 </table>
 
