@@ -9,6 +9,9 @@ header:
 # toc: true
 ---
 
+[13.08.2025] The [Program](../program/) page has been updated with the **preliminary program** for the symposium.
+The [Awards](../awards/) page has been updated with the **best paper awards** for the two tracks.
+
 [04.08.2025] The [Invited Speakers](../speaker/) page has been updated with **keynote talk titles and abstracts** by Prof. Dr. Huamin Qu and Prof. Dr. Hans Bodlaender.
 
 [24.07.2025] The list of accepted papers is now available on the [Accepted Papers](../accepted_papers/) page.

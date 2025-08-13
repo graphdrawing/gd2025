@@ -95,7 +95,7 @@ Location to be announced.
 -   Most hotels in Norrköping are within a 10–20 minute walk.
 -   Norrköping Central Station is about 16 minutes away on foot.
 -   The Visualization Center C (location for the social dinner) is an 8-minute walk.
--   Campus Norrköping (PhD school and the Graph Drawing Contest) is also an 8-minute walk.
+-   Campus Norrköping (PhD school and the Graph Drawing Contest <i>Creative Topic track</i>) is also an 8-minute walk.
 
 <hr>
 
@@ -138,9 +138,11 @@ Kungsgatan 54, 602 33 Norrköping, Sweden
 
 <hr>
 
-### Graph Drawing Contest Location
+### Graph Drawing Contest <i>Creative Topic</i> track Location
 
-The **Graph Drawing Contest** will take place in the **Norrköping Decision Arena** (Norrköpings Beslutsarena), located in the Kopparhammaren 2 building at Campus Norrköping, Linköping University.
+The Graph Drawing Contest **Creative Topic** track (<a href="https://mozart.diei.unipg.it/gdcontest/2025/creative/">link</a>) will take place in the **Norrköping Decision Arena** (Norrköpings Beslutsarena), located in the Kopparhammaren 2 building at Campus Norrköping, Linköping University.
+
+Please note that the <i>Live Challenge</i> track (<a href="https://mozart.diei.unipg.it/gdcontest/2025/live/">link</a>) will take place within the main symposium room.
 
 **About the Norrköping Decision Arena:**  
 Norrköping Decision Arena is the result of advanced research in interactive and participatory visualization. The room features:

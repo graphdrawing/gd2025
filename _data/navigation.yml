@@ -6,6 +6,8 @@ main:
      url: /pages/program
    - title: "Invited Speakers"
      url: /pages/speaker
+   - title: "Awards"
+     url: /pages/awards
    - title: "PhD School"
      url: /pages/school
    - title: "Contest &nbsp;<i class='fas fa-external-link-alt fa-sm'></i>"
