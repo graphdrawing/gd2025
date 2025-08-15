@@ -287,7 +287,7 @@ position: sticky;
 .event-block {
   position: absolute;
   background-color: var(--event-color);
-  box-shadow: 0 4px 12px rgba(47, 10, 10, 0.2);
+  box-shadow: 0px -4px 12px rgba(47, 10, 10, 0.2);
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 4px 4px;
