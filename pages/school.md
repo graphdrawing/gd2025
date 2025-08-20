@@ -155,6 +155,15 @@ Linköpings universitet, Campus Norrköping \\
 Bredgatan 34, 602 47 Norrköping
 
 
+
+**Access to the room:** please enter the Täppan building (main entrance from the south facing Bredgatan) and take the elevator to Floor 4.
+
+The location is accessible by wheelchair and the coffee breaks for the PhD school are located in the same room.
+
+**Registration:** 
+Registration desk for the PhD school will be located right next to the lecture room TP42. The registration desk opens at 8:30 on Monday.
+
+
 <div style="display: flex; flex-direction: column; gap: 20px; margin: 0;">
   <div style="width: 100%;">
     <h4>Google Maps Location</h4>
@@ -166,7 +175,9 @@ Bredgatan 34, 602 47 Norrköping
   </div>
 </div>
 
-The location is accessible by wheelchair and the registration and coffee breaks for the PhD school are located in the same room.
+
+
+
 
 ## Program (Preliminary)
 

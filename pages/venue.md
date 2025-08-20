@@ -29,13 +29,17 @@ Dalsgatan 15, 602 32 Norrköping, Sweden
 </p>
 
 #### Room: Hemerycksalen
-
 The symposium will take place in the room **Hemerycksalen**:
 
 -   Capacity: 200 people
 -   Cinema-style seating  
 -   The venue is wheelchair accessible.
 -   All conference areas are designed to accommodate participants with mobility needs.
+  
+
+**Access to the room:** 
+please enter the main building of Louis de Geer Concert & Congress (entrance from north-east facing Dalsgatan), walk past the cloakroom area, and go down one floor (elevators also available).
+
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; min-width: 180px; text-align: center;">
@@ -73,7 +77,7 @@ Lunch and coffee breaks will be held in the adjacent **Trozelli Gallery** and **
 
 #### Welcome Reception
 
-The welcome reception is on **Tuesday, September 23 from 19:00 to 21:00,** held at **VY NKPG Skybar**, just an 5-minute walk from the PhD school venue and 10–15 minutes from many hotels in Norrköping.
+The welcome reception is on **Tuesday, September 23 from 18:30 to 20:30,** held at **VY NKPG Skybar**, just an 5-minute walk from the PhD school venue and 10–15 minutes from many hotels in Norrköping.
 
 **Reception Address:**\\
 Vy\\
@@ -87,7 +91,7 @@ Located in: Museum of Work
 
 #### Registration
 
-Location to be announced.
+Registration desk for the main symposium will be located at the coffee break area (Trozelli Lounge) right next to the symposium room (Hemerycksalen). The registration desk opens at 8:30 on Wednesday.
 
 
 #### Access to the Venue

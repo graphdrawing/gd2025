@@ -452,7 +452,7 @@ const timelineData = {
         { start: "12:00", end: "14:00", type: "other", title: "Individual Lunch Break" },
         { start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "Camilla Forsell", location: "TP42, Campus Norrköping", details: "User Evaluations in Graph Drawing", link: "../school/#camilla-forsell" },
         //{ start: "15:30", end: "16:00", type: "logistical", title: "Coffee Break" },
-        { start: "19:00", end: "21:00", type: "logistical-highlight", title: "Welcome Reception", location: "VY NKPG Skybar" }
+        { start: "18:30", end: "20:30", type: "logistical-highlight", title: "Welcome Reception", location: "VY NKPG Skybar" }
       ]
     },
     {
@@ -744,7 +744,7 @@ function scrollToSection(sectionId) {
         <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
         <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
         <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Exercises & Discussion</td></tr>
-        <tr class="reception"><td>19:00 &mdash; 21:00</td><td>Welcome Reception, <span class="room-info">VY NKPG Skybar</span></td></tr>
+        <tr class="reception"><td>18:30 &mdash; 20:30</td><td>Welcome Reception, <span class="room-info">VY NKPG Skybar</span></td></tr>
   </tbody>      
 </table>
 
