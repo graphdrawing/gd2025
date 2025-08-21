@@ -35,6 +35,7 @@ The symposium will take place in the room **Hemerycksalen**:
 -   Cinema-style seating  
 -   The venue is wheelchair accessible.
 -   All conference areas are designed to accommodate participants with mobility needs.
+-   **Wi-Fi:** please use the open network "ldg-guest"
   
 
 **Access to the room:** 

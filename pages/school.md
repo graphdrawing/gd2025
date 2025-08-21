@@ -160,6 +160,8 @@ Bredgatan 34, 602 47 Norrköping
 
 The location is accessible by wheelchair and the coffee breaks for the PhD school are located in the same room.
 
+**Wi-Fi:** please use the Eduroam network or the "LiU-guest" network.
+
 **Registration:** 
 Registration desk for the PhD school will be located right next to the lecture room TP42. The registration desk opens at 8:30 on Monday.
 

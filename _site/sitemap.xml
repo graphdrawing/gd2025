@@ -26,6 +26,9 @@
 <loc>http://localhost:4000/pages/news/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/presentation_info/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pages/program/</loc>
 </url>
 <url>

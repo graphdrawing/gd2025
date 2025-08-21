@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[21.08.2025] The [Info for Presenters](../presentation_info/) page has been updated with information.
+
 [13.08.2025] The [Program](../program/) page has been updated with the **preliminary program** for the symposium.
 The [Awards](../awards/) page has been updated with the **best paper awards** for the two tracks.
 

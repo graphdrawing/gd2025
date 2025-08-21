@@ -26,4 +26,5 @@ main:
      url: /pages/news
    - title: "Code of Conduct"
      url: /pages/code_of_conduct
-  
+   - title: "Info for Presenters"
+     url: /pages/presentation_info
