@@ -435,7 +435,7 @@ const timelineData = {
       name: "Monday",
       date: "Sep 22",
       events: [
-        { start: "08:30", end: "09:00", type: "logistical", title: "Registration (PhD School)", location: "Location TBA" },
+        { start: "08:30", end: "09:00", type: "logistical", title: "Registration (PhD School)", location: "Next to the lecture room TP42" },
         { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "Sara Di Bartolomeo", location: "TP42, Campus Norrköping", details: "Information Visualization Perspective on Network Visualization", link: "../school/#sara-di-bartolomeo" },
         //{ start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break" },
         { start: "12:00", end: "14:00", type: "other", title: "Individual Lunch Break" },
@@ -694,7 +694,7 @@ function scrollToSection(sectionId) {
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="registration"><td>08:30 &mdash; 09:00</td><td>PhD School Registration</td></tr>
+    <tr class="registration"><td>08:30 &mdash; 09:00</td><td>PhD School Registration,  <span class="room-info">location right next to the lecture room TP42</span></td></tr>
     <tr class="phd-school header schedule-link" id="phd-school-sara" schedule-link-start="2025-09-22T09:00" schedule-link-end="2025-09-22T12:00" schedule-link-text="PhD School &mdash; Sara Di Bartolomeo">
       <td>09:00 &mdash; 12:00</td>
       <td><strong><a href="../school/#sara-di-bartolomeo">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
