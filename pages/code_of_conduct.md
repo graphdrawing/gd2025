@@ -17,18 +17,16 @@ GD2025 supports <a href="https://safetoc.org/" target="_blank">SafeToC</a>.
 
 An open exchange of ideas and respectful debate are central goals of the International Symposium on Graph Drawing and Network Visualization (GD). All attendees, speakers, sponsors and volunteers attending the conference are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect all participants to help ensure a safe environment for everyone.
 
-<!--
 ## Need Help?
 
-The main points of contact is to be announced,
-for this code of conduct are the SafeToC advocates:
+The main points of contact for this code of conduct are the SafeToC advocates:
 <ul>
   <li><a href="https://mozart.diei.unipg.it/binucci/" target="_blank">Carla Binucci</a> (<i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:carla.binucci@unipg.it">Contact</a>)</li>
   <li><a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithmik/team/dr-henry-foerster/" target="_blank">Henry Förster</a> (<i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:henry.foerster@uni-tuebingen.de">Contact</a>)</li>
   <li><a href="https://www.uu.nl/staff/TMtsentlintze1" target="_blank">Tamara Mchedlidze</a> (<i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:t.mtsentlintze@uu.nl">Contact</a>)</li>
+  <li><a href="https://ireneparada.com1" target="_blank">Irene Parada</a> (<i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:irene.parada@upc.edu">Contact</a>)</li>
 </ul>
 but you are welcome to approach any member of the GD Steering Committee with questions or concerns.
--->
 
 ## The Quick Version
 

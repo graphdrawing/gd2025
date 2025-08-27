@@ -441,7 +441,7 @@ const timelineData = {
         { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "Sara Di Bartolomeo", location: "TP42, Campus Norrköping", details: "Information Visualization Perspective on Network Visualization", link: "../school/#sara-di-bartolomeo" },
         //{ start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break" },
         { start: "12:00", end: "14:00", type: "other", title: "Individual Lunch Break" },
-        { start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "Markus Chimani", location: "TP42, Campus Norrköping", details: "Metrics Evaluations for Graphs", link: "../school/#markus-chimani" },
+        { start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "Markus Chimani", location: "TP42, Campus Norrköping", details: "Evaluating graph metrics and algorithms", link: "../school/#markus-chimani" },
         //{ start: "15:30", end: "16:00", type: "logistical", title: "Coffee Break" }
       ]
     },
@@ -712,7 +712,7 @@ function scrollToSection(sectionId) {
     <tr class="phd-school header schedule-link" id="phd-school-markus" schedule-link-start="2025-09-22T14:00" schedule-link-end="2025-09-22T17:00" schedule-link-text="PhD School &mdash; Markus Chimani">
       <td>14:00 &mdash; 17:00</td>
       <td><strong><a href="../school/#markus-chimani">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
-        <span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Metrics Evaluations for Graphs</span>
+        <span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Evaluating graph metrics and algorithms</span>
       </td>
     </tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>

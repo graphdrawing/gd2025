@@ -19,6 +19,8 @@ There will be a presentation laptop to show PDF and PowerPoint slides. We only s
 
 **Note:** We strongly recommend to have a USB stick with your presentation at hand for emergency purposes.
 
+**Please upload your slides by September 22 at the latest.**
+
 ## Information for Poster Presenters
 There will be a Fast Forward Teaser session preceding the poster and demo session on Wednesday, September 24.
 For each presented poster and exhibited software, there will be the possibility to advertise the poster/software in one minute.
