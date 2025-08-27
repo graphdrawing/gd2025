@@ -682,7 +682,7 @@ function scrollToSection(sectionId) {
 
 ## Detailed Schedule (Preliminary)
 
-**Note for presenters:** Please consider the provided information on the [Info for Presenters](/pages/presentation_info) page when preparing your presentation or poster.
+**Note for presenters:** Please consider the provided information on the [Info for Presenters](../presentation_info/) page when preparing your presentation or poster.
 
 <p>Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#wednesday">Wednesday</a>, <a href="#thursday">Thursday</a>, or <a href="#friday">Friday</a>.</p>
 
