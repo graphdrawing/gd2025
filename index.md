@@ -13,7 +13,7 @@ header:
 ## September 24–26, 2025 · Norrköping, Sweden
 
 
-**Registration is now open** • Early registration deadline: August 26, 23:59 CEST \\
+**Registration is now open** \\
 [Register Now](/gd2025/pages/registration/#registration-instructions) • [View Fees](/gd2025/pages/registration/#registration-fees) • [Travel & Stay](/gd2025/pages/travel_accommodation/)
 
 ## About Graph Drawing 2025
@@ -32,7 +32,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 | Abstract submission deadline      | ~~June 3, 2025~~          |
 | Paper submission deadline         | ~~June 10, 2025~~         |
 | Notification of paper acceptance  | ~~July 23, 2025~~         |
-| Poster submission deadline        | August 22, 2025       |
+| Poster submission deadline        | ~~August 22, 2025~~       |
 | Notification of poster acceptance | September 1, 2025     |
 | Final paper versions due          | September 1, 2025     |
 | PhD school                        | September 22–23, 2025 |

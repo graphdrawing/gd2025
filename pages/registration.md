@@ -45,9 +45,9 @@ The fees for the PhD School only cover the participation at the lectures and the
 ## Registration Instructions
 Symposium registration is carried out through the following forms:
 
-- [**Student** / **Early** registration](https://www.trippus.net/GD2025_Student_Earlyfee){:target="_blank"}
-- [**Regular** / **Early** registration](https://www.trippus.net/GD2025_RegularParticipantEarlyfee){:target="_blank"}
-- [**Steering Committee Members** / **Early** registration](https://www.trippus.net/GD2025_SteeringcommitteMembers_Earlyfee){:target="_blank"}
+- [**Student** / **Late** registration](https://www.trippus.net/GD2025_Student_Latefee){:target="_blank"}
+- [**Regular** / **Late** registration](https://www.trippus.net/GD2025_RegularParticipantLatefee){:target="_blank"}
+- [**Steering Committee Members** / **Late** registration](https://www.trippus.net/GD2025_SteeringcommitteMembers_Latefee){:target="_blank"}
 
 Participation in the **PhD school** and an **extra banquet ticket** can be selected as extra options while registering for the symposium using the links above.
 

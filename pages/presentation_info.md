@@ -13,7 +13,7 @@ toc: true
 The presentations will follow the usual format, i.e. there are 20 minute slots for long and 15 minute slots for short papers (including questions, so please prepare for a slightly shorter talk).
 
 There will be a presentation laptop to show PDF and PowerPoint slides. We only support one option for uploading your slides to the presentation laptop:
-- You can upload your presentation via an upload-only link that will be announced. In this case, your presentation file name should start with the prefix **SessionX_FIRSTNAME_LASTNAME**, where **X** is the number of the session you are presenting in (refer to the [conference program](/pages/program))
+- You can upload your presentation via an upload-only link that will be announced. In this case, your presentation file name should start with the prefix **SessionX_FIRSTNAME_LASTNAME**, where **X** is the number of the session you are presenting in (refer to the [conference program](../program))
 - The maximum resolution of the projector located in the symposium room is 1920x1200 (normally 1920x1080 used for 16:9 images).
 
 
