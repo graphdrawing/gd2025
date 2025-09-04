@@ -1,7 +1,5 @@
 # main links
 main:
-   - title: "Call for Papers"
-     url: /pages/cfp
    - title: "Program"
      url: /pages/program
    - title: "Invited Speakers"
@@ -28,3 +26,5 @@ main:
      url: /pages/code_of_conduct
    - title: "Info for Presenters"
      url: /pages/presentation_info
+   - title: "Call for Papers"
+     url: /pages/cfp
