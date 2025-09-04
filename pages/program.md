@@ -784,11 +784,35 @@ function scrollToSection(sectionId) {
         <tr class="session"><td>14:00 &mdash; 14:20</td><td><span class="authors">Alexander Dobler, Tim Hegemann, Martin Nöllenburg and Alexander Wolff</span>. <span class="title">Optimizing Wiggle in Storylines</span> <span class="track">[T2]</span></td></tr>
         <tr class="session light"><td>14:20 &mdash; 14:40</td><td><span class="authors">Giordano Andreola, Susanna Caroppo, Giuseppe Di Battista, Fabrizio Grosso, Maurizio Patrignani and Allegra Strippoli</span>. <span class="title">A Walk on the Wild Side: a Shape-First Methodology for Orthogonal Drawings</span> <span class="track">[T2]</span></td></tr>
         <tr class="session"><td>14:40 &mdash; 14:55</td><td><span class="authors">Alexander Dobler, Maximilian Holzmüller and Martin Nöllenburg</span>. <span class="title">Geometry Matters in Planar Storyplans</span> <span class="track">[S]</span></td></tr>
-    <tr class="poster header"><td>14:55 &mdash; 16:15</td><td><strong>Posters</strong>, <span class="room-info">Trozelli Gallery</span></td></tr>
-        <tr class="poster"><td>15:15 &mdash; 16:15</td><td>
-    <p>Poster Session <span class="room-info"></span></p>
-    <ul class="poster-list"></ul>
-    </td></tr>
+    <tr class="poster header">
+	<td>14:55 &mdash; 16:15</td>
+	<td><strong>Posters</strong>, <span class="room-info">Trozelli Gallery</span></td>
+</tr>
+<tr class="poster">
+	<td>14:55 &mdash; 15:15</td>
+	<td><strong>Fast Forward Teaser Session</strong>, <span class="room-info">Hemerycksalen</span></td>
+</tr>
+<tr class="poster">
+	<td>15:15 &mdash; 16:15</td>
+	<td>
+		<p>Poster Session <span class="room-info"></span></p>
+		<ul class="poster-list">
+			 <li><span class="authors"><span>Maarten Löffler, Miriam Münch and Ignaz Rutter</span>.</span><span class="title"> Reeb Lobsters are 1-Planar</span></li>
+			 <li><span class="authors"><span>Lucas Joos, Maximilian T. Fischer, Alexander Frings and Daniel A. Keim</span>.</span><span class="title"> EnMRgy: Energy Network Analysis in Mixed Reality</span></li>
+			 <li><span class="authors"><span>Maarten Löffler, Frank Staals and Soeren Terziadis</span>.</span><span class="title"> Recovering Graphs from their Witness Unit Square Representation</span></li>
+			 <li><span class="authors"><span>Raissa Vieira, Hugo Nascimento, Joelma Ferreira, Les Foulds, Karsten Klein and Falk Schreiber</span>.</span><span class="title"> Edge Bundling as a Multi-objective Optimization Problem</span></li>
+			 <li><span class="authors"><span>Henry Förster, Stephen Kobourov, Jacob Miller and Johannes Zink</span>.</span><span class="title"> Drawing Trees and Cacti with Integer Edge Lengths on a Polynomial-Size Grid</span></li>
+			 <li><span class="authors"><span>Oswin Aichholzer, Robert Ganian, Phillip Keldenich, Maarten Löffler, Gert Meijer, Alexandra Weinberger and Carola Wenk</span>.</span><span class="title"> Graph Tiles</span></li>
+			 <li><span class="authors"><span>Cristiano Bernardini, Davide Campanelli, Walter Didimo, Luca Grilli, Giuseppe Liotta and Benedetto Ponti</span>.</span><span class="title"> TReView: Visualizing the European Union Transparency Register</span></li>
+			 <li><span class="authors"><span>Ying Zhang, Niklas Gröne, Karsten Klein, Giuseppe Liotta and Falk Schreiber</span>.</span><span class="title"> Investigating Crossing Perception in 3D Graph Visualisation</span></li>
+			 <li><span class="authors"><span>Erin Chambers, Tim Ophelders, Anna Schenfisch and Julia Sollberger</span>.</span><span class="title"> Counting Triangulations of Fixed Cardinal Degrees</span></li>
+			 <li><span class="authors"><span>Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>.</span><span class="title"> Defective Linear Layouts of Graphs</span></li>
+			 <li><span class="authors"><span>Todor Antić, Guillermo Gamboa Quintero and Jelena Glišić</span>.</span><span class="title"> Reconfigurations of Plane Caterpillars and Paths</span></li>
+			 <li><span class="authors"><span>Timo Brand, Henry Förster, Stephen Kobourov, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>.</span><span class="title"> Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span></li>
+			 <li><span class="authors"><span>Amyra Meidiana, Seok-Hee Hong and Kwan-Liu Ma</span>.</span><span class="title"> BH-tsNET, FIt-tsNET, L-tsNET: Fast tsNET Algorithms for Large Graph Drawing</span></li>
+		</ul>
+	</td>
+</tr>
     <tr class="coffee"><td>15:15 &mdash; 16:15</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
      <tr class="session header schedule-link" id="session-4" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 4"><td><strong>Session 4,<br> 16:15 &mdash; 17:00</strong></td><td><strong>Best Paper Session, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>16:15 &mdash; 16:20</td><td>Introduction to best papers</td></tr>
