@@ -243,8 +243,15 @@ Registration desk for the PhD school will be located right next to the lecture r
 <p><strong><a href="https://www.tuwien.at/">TU Wien</a>, Austria</strong></p>
 </div>
 
-<p><strong>Preliminary Title:</strong></p>
+<p><strong>Title:</strong></p>
 <p>Information Visualization Perspective on Network Visualization</p>
+
+<p><strong>Abstract:</strong></p>
+<p>There are many ways to draw networks, and the choice of layout has a big impact on what people can see and understand. In this lecture, you will learn how perspectives from information visualization differ from traditional graph drawing: we will focus on how visualizations support exploration, tasks, and sensemaking.
+
+We will use BioFabric as a running example. In BioFabric, nodes are drawn as horizontal lines and edges as vertical lines, which opens up new possibilities for showing patterns and encoding additional data. We will look at recent research on layout strategies, readability, and evaluation, and see how these ideas connect to real user needs.
+
+The lecture will be followed by a hands-on exercise. You will try out layout algorithms and experiment with ways to represent multivariate data in BioFabric, discovering how different choices can change what a network reveals.</p>
 
 <p><strong>Biography:</strong></p>
 <p>I'm a postdoc at TU Wien, previously held a postdoc position at the University of Konstanz, and completed my doctorate at Northeastern University in Boston. My research focuses on graph drawing—particularly layered graphs, generative models, and virtual reality. I value any research project that involves a bit of creativity and artistry.</p>
@@ -259,8 +266,21 @@ Registration desk for the PhD school will be located right next to the lecture r
 <p><strong><a href="https://www.uni-osnabrueck.de/">Osnabrück University</a>, Germany</strong></p>
 </div>
 
-<p><strong>Preliminary Title:</strong></p>
-<p>Evaluating graph metrics and algorithms</p> 
+<p><strong>Title:</strong></p>
+<p>Crossing number: Complexity and Algorithms</p> 
+
+<p><strong>Abstract:</strong></p>
+<p>The graph crossing number is the smallest number of edge crossings when
+drawing a given graph into the plane. It is one of the oldest metrics in
+graph drawing and constitutes challenging problems both in theory an
+practice. Even very fundamental and seemingly simple graph theoretic
+questions remain open since decades.
+
+We will focus on the computer science aspects of it: We will discuss the
+complexity of computing it even in very restricted scenarios and focus
+on current different algorithmic aspects (heuristics, approximations,
+FPT-algorithms, ILP-models). Finally, we investigate what we can and
+cannot do in practice.</p> 
 
 <p><strong>Biography:</strong></p>
 <p>Markus Chimani is a full professor of Theoretical Computer Science at
