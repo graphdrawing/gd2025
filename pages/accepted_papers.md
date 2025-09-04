@@ -179,7 +179,21 @@ usemathjax: true
 - <span class="authors"><span>Jacob Fox, Janos Pach and Andrew Suk</span>.</span><span class="title"> From local pair-crossing number to local crossing number</span>
 
 
+## Posters
 
+- <span class="authors"><span>Maarten Löffler, Miriam Münch and Ignaz Rutter</span>.</span><span class="title"> Reeb Lobsters are 1-Planar</span>
+- <span class="authors"><span>Lucas Joos, Maximilian T. Fischer, Alexander Frings and Daniel A. Keim</span>.</span><span class="title"> EnMRgy: Energy Network Analysis in Mixed Reality</span>
+- <span class="authors"><span>Maarten Löffler, Frank Staals and Soeren Terziadis</span>.</span><span class="title"> Recovering Graphs from their Witness Unit Square Representation</span>
+- <span class="authors"><span>Raissa Vieira, Hugo Nascimento, Joelma Ferreira, Les Foulds, Karsten Klein and Falk Schreiber</span>.</span><span class="title"> Edge Bundling as a Multi-objective Optimization Problem</span>
+- <span class="authors"><span>Henry Förster, Stephen Kobourov, Jacob Miller and Johannes Zink</span>.</span><span class="title"> Drawing Trees and Cacti with Integer Edge Lengths on a Polynomial-Size Grid</span>
+- <span class="authors"><span>Oswin Aichholzer, Robert Ganian, Phillip Keldenich, Maarten Löffler, Gert Meijer, Alexandra Weinberger and Carola Wenk</span>.</span><span class="title"> Graph Tiles</span>
+- <span class="authors"><span>Cristiano Bernardini, Davide Campanelli, Walter Didimo, Luca Grilli, Giuseppe Liotta and Benedetto Ponti</span>.</span><span class="title"> TReView: Visualizing the European Union Transparency Register</span>
+- <span class="authors"><span>Ying Zhang, Niklas Gröne, Karsten Klein, Giuseppe Liotta and Falk Schreiber</span>.</span><span class="title"> Investigating Crossing Perception in 3D Graph Visualisation</span>
+- <span class="authors"><span>Erin Chambers, Tim Ophelders, Anna Schenfisch and Julia Sollberger</span>.</span><span class="title"> Counting Triangulations of Fixed Cardinal Degrees</span>
+- <span class="authors"><span>Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>.</span><span class="title"> Defective Linear Layouts of Graphs</span>
+- <span class="authors"><span>Todor Antić, Guillermo Gamboa Quintero and Jelena Glišić</span>.</span><span class="title"> Reconfigurations of Plane Caterpillars and Paths</span>
+- <span class="authors"><span>Timo Brand, Henry Förster, Stephen Kobourov, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>.</span><span class="title"> Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span>
+- <span class="authors"><span>Amyra Meidiana, Seok-Hee Hong and Kwan-Liu Ma</span>.</span><span class="title"> BH-tsNET, FIt-tsNET, L-tsNET: Fast tsNET Algorithms for Large Graph Drawing</span>
 
 
 	
