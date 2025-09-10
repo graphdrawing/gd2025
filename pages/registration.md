@@ -11,7 +11,9 @@ toc: true
 
 **Registration is now open**
 
-Early registration has ended on August 26, 23:59 CEST.
+Early registration has ended on August 26, 23:59 CEST. \\
+Please note that registration will close by Monday, **September 15, 23:59** Stockholm time (CET)\\
+
 
 ## Registration Fees
 Registration fees for the symposium include the welcome reception (on Tuesday, September 23), coffee breaks, lunches, and the banquet dinner with a Dome Show (on Thursday, September 25).
