@@ -199,7 +199,7 @@ Registration desk for the PhD school will be located right next to the lecture r
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr class="lunch"><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
-    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#markus-chimani"><span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Evaluating graph metrics and algorithms</span></a>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#markus-chimani"><span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Crossing number: Complexity and Algorithms</span></a>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>

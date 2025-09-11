@@ -80,6 +80,11 @@ Lunch and coffee breaks will be held in the adjacent **Trozelli Gallery** and **
 
 The welcome reception is on **Tuesday, September 23 from 18:30 to 20:30,** held at **VY NKPG Skybar**, just an 5-minute walk from the PhD school venue and 10–15 minutes from many hotels in Norrköping.
 
+<div style="flex: 1; min-width: 180px; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/venue/reception.png" alt="Entrance to the Reception Area" style="max-width: 100%; height: auto;">
+  <div style="font-size: 0.7em;">Entrance to the Reception Area</div>
+</div>
+
 **Reception Address:**\\
 Vy\\
 Laxholmen, 602 21 Norrköping\\
