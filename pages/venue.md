@@ -154,6 +154,7 @@ The Graph Drawing Contest **Creative Topic** track (<a href="https://mozart.diei
 
 Please note that the <i>Live Challenge</i> track (<a href="https://mozart.diei.unipg.it/gdcontest/2025/live/">link</a>) will take place within the main symposium room.
 
+#### Decision Arena Location
 **About the Norrköping Decision Arena:**  
 Norrköping Decision Arena is the result of advanced research in interactive and participatory visualization. The room features:
 - A cylindrical screen with a 6-meter diameter

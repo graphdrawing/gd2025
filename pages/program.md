@@ -467,6 +467,7 @@ const timelineData = {
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Trozelli Lounge" },
         { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "Hemerycksalen", details: "Chair: TBA" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Trozelli Gallery" },
+        { start: "13:00", end: "16:00", type: "special-highlight", title: "Public Viewing of GD Creative Challenge", location: "Norrköping Decision Arena" },
         { start: "14:00", end: "14:55", type: "session", title: "Session 3", location: "Hemerycksalen", details: "Chair: TBA" },
         { start: "14:55", end: "16:15", type: "special", title: "Posters", location: "Trozelli Gallery", details: "" },
         { start: "16:15", end: "17:00", type: "session", title: "Session 4", location: "Hemerycksalen", details: "Best Paper Session" },
@@ -748,7 +749,7 @@ function scrollToSection(sectionId) {
         <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
         <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
         <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Exercises & Discussion</td></tr>
-        <tr class="reception"><td>18:30 &mdash; 20:30</td><td>Welcome Reception, <span class="room-info">VY NKPG Skybar</span></td></tr>
+        <tr class="reception"><td>18:30 &mdash; 20:30</td><td>Welcome Reception, <span class="room-info"><a href="../venue/#welcome-reception" target="_blank">Location: VY NKPG Skybar</a></span></td></tr>
   </tbody>      
 </table>
 
@@ -778,6 +779,7 @@ function scrollToSection(sectionId) {
         <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Oswin Aichholzer, Sofia Brenner, Joseph Dorfer, Hung Hoang, <span class="speaker">Daniel Perz</span>, Christian Rieck and Francesco Verciani</span>. <span class="title">Flipping odd matchings in geometric and combinatorial settings</span> <span class="track">[T1]</span></td></tr>
         <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Florestan Brunck, Hsien-Chih Chang, <span class="speaker">Maarten Löffler</span>, Tim Ophelders and Lena Schlipf</span>. <span class="title">Reconfiguration in Curve Arrangements to Reduce Self-Intersections and Popular Faces</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Trozelli Gallery</span></td></tr>
+    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GD Creative Challenge"><td><strong>13:00 &mdash; 16:00</strong></td><td><strong>Public Viewing of the GD Creative Challenge (<span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span>)</strong></td></tr>
     <tr class="session header schedule-link" id="session-3" schedule-link-start="2025-09-24T14:00" schedule-link-end="2025-09-24T14:55" schedule-link-text="Session 3"><td><strong>Session 3,<br> 14:00 &mdash; 14:55</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>14:00 &mdash; 14:20</td><td><span class="authors"><span class="speaker">Alexander Dobler</span>, Tim Hegemann, Martin Nöllenburg and Alexander Wolff</span>. <span class="title">Optimizing Wiggle in Storylines</span> <span class="track">[T2]</span></td></tr>
         <tr class="session light"><td>14:20 &mdash; 14:40</td><td><span class="authors"><span class="speaker">Giordano Andreola</span>, Susanna Caroppo, Giuseppe Di Battista, Fabrizio Grosso, Maurizio Patrignani and <span class="speaker">Allegra Strippoli</span></span>. <span class="title">A Walk on the Wild Side: a Shape-First Methodology for Orthogonal Drawings</span> <span class="track">[T2]</span></td></tr>
