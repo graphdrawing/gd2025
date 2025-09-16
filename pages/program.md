@@ -300,7 +300,7 @@ position: sticky;
   text-overflow: ellipsis;
   white-space: normal;
   line-height: 1.3;
-  min-height: 20px; 
+  min-height: 30px; 
   width: calc(100% - 16px);
   margin: 0 8px;
   transition: all 0.3s ease;
@@ -431,7 +431,7 @@ position: sticky;
 
 <script>
 const timelineData = {
-  timeRange: { start: "08:30", end: "23:00" },
+  timeRange: { start: "08:30", end: "22:30" },
   days: [
     {
       name: "Monday",
@@ -463,43 +463,44 @@ const timelineData = {
       events: [
         { start: "08:30", end: "09:00", type: "logistical", title: "Registration", location: "Trozelli Lounge" },
         { start: "09:00", end: "09:15", type: "special", title: "Opening", location: "Hemerycksalen" },
-        { start: "09:15", end: "10:30", type: "session", title: "Session 1", location: "Hemerycksalen", details: "Chair: TBA" },
+        { start: "09:15", end: "10:30", type: "session", title: "Session 1", location: "Hemerycksalen", speaker: "Chair: Philipp Kinderman" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Trozelli Lounge" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "Hemerycksalen", details: "Chair: TBA" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "Hemerycksalen", speaker: "Chair: Todor Antic" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Trozelli Gallery" },
-        { start: "13:00", end: "16:00", type: "special-highlight", title: "Public Viewing of GD Creative Challenge", location: "Norrköping Decision Arena" },
-        { start: "14:00", end: "14:55", type: "session", title: "Session 3", location: "Hemerycksalen", details: "Chair: TBA" },
-        { start: "14:55", end: "16:15", type: "special", title: "Posters", location: "Trozelli Gallery", details: "" },
-        { start: "16:15", end: "17:00", type: "session", title: "Session 4", location: "Hemerycksalen", details: "Best Paper Session" },
-        { start: "17:00", end: "18:30", type: "special-highlight", title: "GD Live Challenge", location: "Hemerycksalen", link: "https://mozart.diei.unipg.it/gdcontest/2025/" }
+        { start: "13:00", end: "16:00", type: "special-highlight", title: "GDC Creative Challenge Public Viewing", location: "Norrköping Decision Arena" },
+        { start: "14:00", end: "14:55", type: "session", title: "Session 3", location: "Hemerycksalen", speaker: "Chair: Tamara Mchedlidze" },
+        { start: "14:55", end: "15:15", type: "special", title: "Fast Forward Teaser Session", location: "Hemerycksalen", speaker: "Chair: Kostiantyn Kucher" },
+        { start: "15:15", end: "16:15", type: "special", title: "Posters", location: "Trozelli Gallery", details: "" },
+        { start: "16:15", end: "17:00", type: "session", title: "Session 4", location: "Hemerycksalen", speaker: "Chair: Fabrizio Montecchiani", details: "Best Paper Session" },
+        { start: "17:00", end: "18:30", type: "special-highlight", title: "GDC Live Challenge", location: "Hemerycksalen", link: "https://mozart.diei.unipg.it/gdcontest/2025/" }
       ]
     },
     {
       name: "Thursday",
       date: "Sep 25",
       events: [
-        { start: "09:00", end: "10:30", type: "session", title: "Session 5", location: "Hemerycksalen", details: "Chair: TBA" },
+        { start: "09:00", end: "10:30", type: "session", title: "Session 5", location: "Hemerycksalen", speaker: "Chair: Henry Förster" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Trozelli Lounge" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 6", location: "Hemerycksalen", details: "Chair: TBA", sponsor: "yWorks" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 6", location: "Hemerycksalen", speaker: "Chair: Maarten Löffler", sponsor: "yWorks" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Trozelli Gallery" },
-        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Hans Bodlaender", location: "Hemerycksalen", details: "A Sketch of Parameterized Complexity" },
+        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk by Hans Bodlaender", speaker: "Chair: Vida Dujmovic", location: "Hemerycksalen", details: "A Sketch of Parameterized Complexity" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Trozelli Lounge" },
-        { start: "15:30", end: "16:45", type: "session", title: "Session 7", location: "Hemerycksalen", details: "Chair: TBA", sponsor: "Tom Sawyer Software" },
+        { start: "15:30", end: "16:45", type: "session", title: "Session 7", location: "Hemerycksalen", speaker: "Chair: Eleni Katsanou", sponsor: "Tom Sawyer Software" },
         { start: "16:50", end: "17:45", type: "special-highlight", title: "Business Meeting", location: "Hemerycksalen" },
-        { start: "18:15", end: "23:00", type: "logistical-highlight", title: "Social Dinner + Dome Show", location: "Visualization Center C" }
+        { start: "18:30", end: "23:00", type: "logistical-highlight", title: "Social Dinner + Dome Show", location: "Visualization Center C" }
       ]
     },
     {
       name: "Friday",
       date: "Sep 26",
       events: [
-        { start: "09:00", end: "10:30", type: "session", title: "Session 8", location: "Hemerycksalen", details: "Chair: TBA" },
+        { start: "09:00", end: "10:30", type: "session", title: "Session 8", location: "Hemerycksalen", speaker: "Chair: Carla Binucci" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Trozelli Lounge" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 9", location: "Hemerycksalen", details: "Chair: TBA", sponsor: "Carl Trygger Foundation" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 9", location: "Hemerycksalen", speaker: "Chair: Alexandra Weinberger", sponsor: "Carl Trygger Foundation" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Trozelli Gallery" },
-        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Huamin Qu", location: "Hemerycksalen", details: "Transforming Graph Visualization through AI and Human-AI Collaboration" },
+        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk by Huamin Qu", speaker: "Chair: Andreas Kerren", location: "Hemerycksalen", details: "Transforming Graph Visualization through AI and Human-AI Collaboration" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Trozelli Lounge" },
-        { start: "15:30", end: "16:45", type: "session", title: "Session 10", location: "Hemerycksalen", details: "Chair: TBA" },
+        { start: "15:30", end: "16:45", type: "session", title: "Session 10", location: "Hemerycksalen", speaker: "Chair: Sara Di Bartolomeo" },
         { start: "16:45", end: "17:00", type: "special", title: "Closing & Awards", location: "Hemerycksalen" }
       ]
     }
@@ -525,7 +526,7 @@ function generateTimeAxis() {
   const startMinutes = timeToMinutes(timelineData.timeRange.start);
   const endMinutes = timeToMinutes(timelineData.timeRange.end);
   const totalMinutes = endMinutes - startMinutes;
-  const containerHeight = 750; // Same as in generateDayColumns
+  const containerHeight = 1100; // Same as in generateDayColumns
   const pixelsPerMinute = containerHeight / totalMinutes;
   
   timeAxis.innerHTML = '<div class="time-slot" style="height: 50px; font-weight: bold;">Time</div>';
@@ -550,7 +551,7 @@ function generateDayColumns() {
   const startMinutes = timeToMinutes(timelineData.timeRange.start);
   const endMinutes = timeToMinutes(timelineData.timeRange.end);
   const totalMinutes = endMinutes - startMinutes;
-  const containerHeight = 750; // Base height in pixels
+  const containerHeight = 1100; // Base height in pixels
   const pixelsPerMinute = containerHeight / totalMinutes;
   const headerHeight = 50; // Height of the day header
   
@@ -577,7 +578,12 @@ function generateDayColumns() {
       
       // Align with time axis: start from header height, then calculate position
       const top = headerHeight + ((startMin - startMinutes) * pixelsPerMinute);
-      const height = ((endMin - startMin) * pixelsPerMinute);
+      let height = ((endMin - startMin) * pixelsPerMinute);
+      
+      // Special case: ensure minimum height for very short events like "Opening"
+      if (event.title === "Opening" || height < 40) {
+        height = Math.max(height, 40); // Minimum 40px height
+      }
       
       eventBlock.style.top = `${top}px`;
       eventBlock.style.height = `${height}px`;
@@ -612,6 +618,13 @@ function generateDayColumns() {
       }
       
       eventBlock.innerHTML = content;
+      
+      // Special styling for Opening event
+      if (event.title === "Opening") {
+        eventBlock.style.padding = "2px 4px"; 
+        eventBlock.style.fontSize = "0.7em"; 
+        // eventBlock.style.fontWeight = "bold"; 
+      }
       
    // Add click handler
         eventBlock.onclick = () => {
@@ -703,7 +716,7 @@ function scrollToSection(sectionId) {
     <tr class="phd-school header schedule-link" id="phd-school-sara" schedule-link-start="2025-09-22T09:00" schedule-link-end="2025-09-22T12:00" schedule-link-text="PhD School &mdash; Sara Di Bartolomeo">
       <td>09:00 &mdash; 12:00</td>
       <td><strong><a href="../school/#sara-di-bartolomeo">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
-        <span class="authors">Dr. Sara Di Bartolomeo</span>. <span class="title">Information Visualization Perspective on Network Visualization</span>
+        <span class="authors">Dr. Sara Di Bartolomeo</span>. <br><span class="title">Information Visualization Perspective on Network Visualization</span>
       </td>
     </tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
@@ -713,7 +726,7 @@ function scrollToSection(sectionId) {
     <tr class="phd-school header schedule-link" id="phd-school-markus" schedule-link-start="2025-09-22T14:00" schedule-link-end="2025-09-22T17:00" schedule-link-text="PhD School &mdash; Markus Chimani">
       <td>14:00 &mdash; 17:00</td>
       <td><strong><a href="../school/#markus-chimani">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
-        <span class="authors">Prof. Dr. Markus Chimani</span>. <span class="title">Crossing number: Complexity and Algorithms</span>
+        <span class="authors">Prof. Dr. Markus Chimani</span>. <br><span class="title">Crossing number: Complexity and Algorithms</span>
       </td>
     </tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
@@ -732,7 +745,7 @@ function scrollToSection(sectionId) {
         <tr class="phd-school header schedule-link" id="phd-school-daniel" schedule-link-start="2025-09-23T09:00" schedule-link-end="2025-09-23T12:00" schedule-link-text="PhD School &mdash; Daniel Archambault">
         <td>09:00 &mdash; 12:00</td>
         <td><strong><a href="../school/#daniel-archambault">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
-            <span class="authors">Prof. Dr. Daniel Archambault</span>. <span class="title">Dimensionality Reduction, Machine Learning, and Graph Drawing</span>
+            <span class="authors">Prof. Dr. Daniel Archambault</span>. <br><span class="title">Dimensionality Reduction, Machine Learning, and Graph Drawing</span>
         </td>
         </tr>
         <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
@@ -743,7 +756,7 @@ function scrollToSection(sectionId) {
         <tr class="phd-school header schedule-link" id="phd-school-camilla" schedule-link-start="2025-09-23T14:00" schedule-link-end="2025-09-23T17:00" schedule-link-text="PhD School &mdash; Camilla Forsell">
         <td>14:00 &mdash; 17:00</td>
         <td><strong><a href="../school/#camilla-forsell">PhD School</a></strong>, <span class="room-info">TP42,  Campus Norrköping, Campus Norrköping</span><br>
-            <span class="authors">Dr. Camilla Forsell</span>. <span class="title">User Evaluations in Graph Drawing</span>
+            <span class="authors">Dr. Camilla Forsell</span>. <br><span class="title">User Evaluations in Graph Drawing</span>
         </td>
         </tr>
         <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
@@ -767,30 +780,30 @@ function scrollToSection(sectionId) {
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
         <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration, <span class="room-info">Trozelli Lounge</span></td></tr>
         <tr class="poster"><td>09:00 &mdash; 09:15</td><td>Opening</td></tr>
-    <tr class="session header schedule-link" id="session-1" schedule-link-start="2025-09-24T09:15" schedule-link-end="2025-09-24T10:30" schedule-link-text="Session 1"><td><strong>Session 1,<br> 09:15 &mdash; 10:30</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-1" schedule-link-start="2025-09-24T09:15" schedule-link-end="2025-09-24T10:30" schedule-link-text="Session 1"><td><strong>Session 1,<br> 09:15 &mdash; 10:30</strong></td><td><strong>Chair: Philipp Kinderman, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>09:15 &mdash; 09:35</td><td><span class="authors">Tatsuya Gima, Yasuaki Kobayashi and <span class="speaker">Yuto Okada</span></span>. <span class="title">Structural Parameterizations of k-Planarity</span> <span class="track">[T1]</span></td></tr>
         <tr class="session light"><td>09:35 &mdash; 09:55</td><td><span class="authors">Hugo Akitaya, Justin Dallant, Erik D. Demaine, <span class="speaker">Michael Kaufmann</span>, Linda Kleist, Frederick Stock, Csaba Toth and Torsten Ueckerdt</span>. <span class="title">Connectivity Augmentation for Planar and Beyond-Planar Graphs</span> <span class="track">[T1]</span></td></tr>
         <tr class="session"><td>09:55 &mdash; 10:15</td><td><span class="authors">Simon D. Fink, Miriam Münch, <span class="speaker">Matthias Pfretzschner</span> and Ignaz Rutter</span>. <span class="title">Heuristics for Exact 1-Planarity Testing</span> <span class="track">[T2]</span></td></tr>
         <tr class="session light"><td>10:15 &mdash; 10:30</td><td><span class="authors"><span class="speaker">Eliska Cervenkova</span> and Jan Kratochvil</span>. <span class="title">1-planar unit distance graphs with more edges than matchstick graphs</span> <span class="track">[S]</span></td></tr>
         <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
-    <tr class="session header schedule-link" id="session-2" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 2"><td><strong>Session 2,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-2" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 2"><td><strong>Session 2,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Chair: Todor Antic, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors">Giuseppe Di Battista, <span class="speaker">Giuseppe Liotta</span>, Maurizio Patrignani, Antonios Symvonis and Ioannis Tollis</span>. <span class="title">Tangling and Untangling Trees on Point-sets</span> <span class="track">[T1]</span></td></tr>
         <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors">Oswin Aichholzer, <span class="speaker">Joseph Dorfer</span> and Birgit Vogtenhuber</span>. <span class="title">Constrained Flips in Plane Spanning Trees</span> <span class="track">[T1]</span></td></tr>
         <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Oswin Aichholzer, Sofia Brenner, Joseph Dorfer, Hung Hoang, <span class="speaker">Daniel Perz</span>, Christian Rieck and Francesco Verciani</span>. <span class="title">Flipping odd matchings in geometric and combinatorial settings</span> <span class="track">[T1]</span></td></tr>
         <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Florestan Brunck, Hsien-Chih Chang, <span class="speaker">Maarten Löffler</span>, Tim Ophelders and Lena Schlipf</span>. <span class="title">Reconfiguration in Curve Arrangements to Reduce Self-Intersections and Popular Faces</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Trozelli Gallery</span></td></tr>
-    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GD Creative Challenge"><td><strong>13:00 &mdash; 16:00</strong></td><td><strong>Public Viewing of the GD Creative Challenge (<span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span>)</strong></td></tr>
-    <tr class="session header schedule-link" id="session-3" schedule-link-start="2025-09-24T14:00" schedule-link-end="2025-09-24T14:55" schedule-link-text="Session 3"><td><strong>Session 3,<br> 14:00 &mdash; 14:55</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GDC Creative Challenge"><td><strong>13:00 &mdash; 16:00</strong></td><td><strong>Public Viewing of the GDC Creative Challenge <br><span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-3" schedule-link-start="2025-09-24T14:00" schedule-link-end="2025-09-24T14:55" schedule-link-text="Session 3"><td><strong>Session 3,<br> 14:00 &mdash; 14:55</strong></td><td><strong>Chair: Tamara Mchedlidze, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>14:00 &mdash; 14:20</td><td><span class="authors"><span class="speaker">Alexander Dobler</span>, Tim Hegemann, Martin Nöllenburg and Alexander Wolff</span>. <span class="title">Optimizing Wiggle in Storylines</span> <span class="track">[T2]</span></td></tr>
         <tr class="session light"><td>14:20 &mdash; 14:40</td><td><span class="authors"><span class="speaker">Giordano Andreola</span>, Susanna Caroppo, Giuseppe Di Battista, Fabrizio Grosso, Maurizio Patrignani and <span class="speaker">Allegra Strippoli</span></span>. <span class="title">A Walk on the Wild Side: a Shape-First Methodology for Orthogonal Drawings</span> <span class="track">[T2]</span></td></tr>
         <tr class="session"><td>14:40 &mdash; 14:55</td><td><span class="authors"><span class="speaker">Alexander Dobler</span>, Maximilian Holzmüller and Martin Nöllenburg</span>. <span class="title">Geometry Matters in Planar Storyplans</span> <span class="track">[S]</span></td></tr>
-    <tr class="poster header">
-	<td>14:55 &mdash; 16:15</td>
-	<td><strong>Posters</strong>, <span class="room-info">Trozelli Gallery</span></td>
-</tr>
-<tr class="poster">
+<tr class="poster header">
 	<td>14:55 &mdash; 15:15</td>
-	<td><strong>Fast Forward Teaser Session</strong>, <span class="room-info">Hemerycksalen</span></td>
+	<td><strong>Fast Forward Teaser Session</strong>, <br> <strong> Chair: Kostiantyn Kucher, </strong><strong class="room-info">Hemerycksalen</strong></td>
+</tr>
+<tr class="poster header">
+	<td>15:15 &mdash; 16:15</td>
+	<td><strong>Posters</strong>, <strong class="room-info">Trozelli Gallery</strong></td>
 </tr>
 <tr class="poster">
 	<td>15:15 &mdash; 16:15</td>
@@ -814,11 +827,11 @@ function scrollToSection(sectionId) {
 	</td>
 </tr>
     <tr class="coffee"><td>15:15 &mdash; 16:15</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
-     <tr class="session header schedule-link" id="session-4" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 4"><td><strong>Session 4,<br> 16:15 &mdash; 17:00</strong></td><td><strong>Best Paper Session, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+     <tr class="session header schedule-link" id="session-4" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 4"><td><strong>Session 4,<br> 16:15 &mdash; 17:00</strong></td><td><strong>Best Paper Session</strong>,<br><strong>Chair: Fabrizio Montecchiani, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>16:15 &mdash; 16:20</td><td>Introduction to best papers</td></tr>
         <tr class="session light"><td>16:20 &mdash; 16:40</td><td><span class="authors">Oswin Aichholzer, Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and <span class="speaker">Alexandra Weinberger</span></span>. <span class="title">Characterizing and Recognizing Twistedness</span> <span class="track">[T1]</span></td></tr>
         <tr class="session"><td>16:40 &mdash; 17:00</td><td><span class="authors"><span class="speaker">Sergey Pupyrev</span></span>. <span class="title">OOPS: Optimized One-Planarity Solver via SAT</span> <span class="track">[T2]</span></td></tr>
-   <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GD Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2025/" target="_blank">GD Live Challenge</a> (<span class="room-info">Hemerycksalen</span>)</strong></td></tr>
+   <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GDC Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2025/" target="_blank">GDC Live Challenge</a>, <span class="room-info">Hemerycksalen</span></strong></td></tr>
   </tbody>
 </table>
 
@@ -834,30 +847,30 @@ function scrollToSection(sectionId) {
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="session header schedule-link" id="session-5" schedule-link-start="2025-09-25T10:00" schedule-link-end="2025-09-25T11:30" schedule-link-text="Session 8"><td><strong>Session 5,<br> 09:00 &mdash; 10:30</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-5" schedule-link-start="2025-09-25T10:00" schedule-link-end="2025-09-25T11:30" schedule-link-text="Session 5"><td><strong>Session 5,<br> 09:00 &mdash; 10:30</strong></td><td><strong>Chair: Henry Förster, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors"><span class="speaker">Miriam Goetze</span>, Michael Hoffmann, Ignaz Rutter and Torsten Ueckerdt</span>. <span class="title">Crossing Number of Simple 3-Plane Drawings</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>09:20 &mdash; 09:40</td><td><span class="authors">Zayed Asiri, Ryan Burdett, Markus Chimani, Michael Haythorpe, Alex Newcombe and <span class="speaker">Mirko H. Wagner</span></span>. <span class="title">A Systematic Approach to Crossing Numbers of Cartesian Products with Paths</span> <span class="track">[T1]</span></td></tr>
     <tr class="session "><td>09:40 &mdash; 10:00</td><td><span class="authors"><span class="speaker">Todor Antić</span>, Martin Balko and Birgit Vogtenhuber</span>. <span class="title">Crossing and non-crossing families</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>10:00 &mdash; 10:15</td><td><span class="authors">Jacob Fox, Janos Pach and Andrew Suk</span>. <span class="title">From local pair-crossing number to local crossing number</span> <span class="track">[S]</span></td></tr>
     <tr class="session"><td>10:15 &mdash; 10:30</td><td><span class="authors"><span class="speaker">David Eppstein</span></span>. <span class="title">Stabbing Faces By a Convex Curve</span> <span class="track">[S]</span></td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
-    <tr class="session header schedule-link" id="session-6" schedule-link-start="2025-09-25T12:00" schedule-link-end="2025-09-25T13:20" schedule-link-text="Session 6"><td><strong>Session 6,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Sponsored by <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" style="color: white !important">yWorks</a>, Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-6" schedule-link-start="2025-09-25T12:00" schedule-link-end="2025-09-25T13:20" schedule-link-text="Session 6"><td><strong>Session 6,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Sponsored by <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" style="color: white !important">yWorks</a>, <br>Chair: Maarten Löffler, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors">Md. Jawaherul Alam, Michael Bekos, Martin Gronemann and <span class="speaker">Michael Kaufmann</span></span>. <span class="title">The Page Number of Monotone Directed Acyclic Outerplanar Graphs is Four or Five</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors">Michael Bekos, Giordano Da Lozzo, Fabrizio Frati, Giuseppe Liotta and <span class="speaker">Antonios Symvonis</span></span>. <span class="title">Internally-Convex Drawings of Outerplanar Graphs in Small Area</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors"><span class="speaker">Rafał Pyzik</span></span>. <span class="title">Treewidth of Outer k-Planar Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Alvin Chiu, <span class="speaker">Thomas Depian</span>, David Eppstein, Michael T. Goodrich and Martin Nöllenburg</span>. <span class="title">Visualizing Treewidth</span> <span class="track">[T2]</span></td></tr>
     <tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Trozelli Gallery</span></td></tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2024-09-19T14:00" schedule-link-end="2024-09-19T15:00" schedule-link-text="Invited Talk by Hans Bodlaender"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#Hans-Bodlaender">Invited Talk</a>, <span class="room-info">Hemerycksalen</span></strong><br>
-    <span class="authors"><span>Prof. Dr. Hans Bodlaender</span>. </span><span class="title"><a href="" target="_blank">A Sketch of Parameterized Complexity</a></span> 
+    <span class="authors"><span>Prof. Dr. Hans Bodlaender</span>. </span><span class="title"><a href="" target="_blank">A Sketch of Parameterized Complexity, Chair: Vida Dujmovic</a></span> 
     </td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">Trozelli Lounge</span></strong></td></tr>
-    <tr class="session header schedule-link" id="session-7" schedule-link-start="2024-09-19T15:30" schedule-link-end="2024-09-19T16:45" schedule-link-text="Session 7"><td><strong>Session 7,<br> 15:30 &mdash; 16:45</strong></td><td><strong>Sponsored by <a href="https://www.tomsawyer.com" target="_blank" style="color: white !important"><strong>Tom Sawyer Software</strong></a>, Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-7" schedule-link-start="2024-09-19T15:30" schedule-link-end="2024-09-19T16:45" schedule-link-text="Session 7"><td><strong>Session 7,<br> 15:30 &mdash; 16:45</strong></td><td><strong>Sponsored by <a href="https://www.tomsawyer.com" target="_blank" style="color: white !important"><strong>Tom Sawyer Software</strong></a>, <br>Chair: Eleni Katsanou, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>15:30 &mdash; 15:50</td><td><span class="authors">Lin Zhang, <span class="speaker">Yao Wang</span>, Ying Zhang, Wilhelm Kerle-Malcharek, Karsten Klein, Falk Schreiber and Andreas Bulling</span>. <span class="title">Towards a Better Understanding of Graph Perception in Immersive Environments</span> <span class="track">[T2]</span></td></tr>
     <tr class="session light"><td>15:50 &mdash; 16:10</td><td><span class="authors"><span class="speaker">Gavin J. Mooney</span>, Alexander Wolff, Tim Hegemann, Michael Wybrow and Helen Purchase</span>. <span class="title">Universal Quality Metrics for Graph Drawings: Which Graphs Excite Us Most?</span> <span class="track">[T2]</span></td></tr>
     <tr class="session "><td>16:10 &mdash; 16:30</td><td><span class="authors"><span class="speaker">Gavin J. Mooney</span>, Jacob Miller, Michael Wybrow, Stephen Kobourov and Helen Purchase</span>. <span class="title">Stress in Graph Drawings: Perception, Preference, and Performance</span> <span class="track">[T2]</span></td></tr>
     <tr class="session light"><td>16:30 &mdash; 16:45</td><td><span class="authors"><span class="speaker">Simon van Wageningen</span>, Tamara Mchedlidze and Alex Telea</span>. <span class="title">Same Quality Metrics, Different Graph Drawings</span> <span class="track">[S]</span></td></tr>
     <tr class="business-meeting"><td><strong>16:50 &mdash; 17:45</strong></td><td><strong>Business Meeting, <span class="room-info">Hemerycksalen</span></strong></td></tr>
-    <tr class="reception"><td>18:15 &mdash; 23:00</td><td>
+    <tr class="reception"><td>18:30 &mdash; 23:00</td><td>
     Social Dinner + Dome Show, <span class="room-info"><a href="https://visualiseringscenter.se/" target="_blank">Visualization Center C</a></span></td></tr>
   </tbody>
 </table>
@@ -875,14 +888,14 @@ function scrollToSection(sectionId) {
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="session header schedule-link" id="session-8" schedule-link-start="2024-09-20T09:00" schedule-link-end="2024-09-20T10:30" schedule-link-text="Session 8"><td><strong>Session 8,<br> 09:00 &mdash; 10:30</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-8" schedule-link-start="2024-09-20T09:00" schedule-link-end="2024-09-20T10:30" schedule-link-text="Session 8"><td><strong>Session 8,<br> 09:00 &mdash; 10:30</strong></td><td><strong>Chair: Carla Binucci, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors"><span class="speaker">Tomasz Krawczyk</span></span>. <span class="title">On the structure of normalized models of circular arc graphs I</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>09:20 &mdash; 09:40</td><td><span class="authors"><span class="speaker">Todor Antić</span>, Vít Jelínek, Maritn Pergel, Felix Schröder, Peter Stumpf and Pavel Valtr</span>. <span class="title">The Bend Number of Cocomparability Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session "><td>09:40 &mdash; 10:00</td><td><span class="authors"><span class="speaker">Carolina Haase</span>, Philipp Kindermann, Giuseppe Liotta and William Lenhart</span>. <span class="title">Separability of Witness Gabriel Drawings</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>10:00 &mdash; 10:15</td><td><span class="authors">Michael Bekos, <span class="speaker">Michael Kaufmann</span> and Maximilian Pfister</span>. <span class="title">Approximating Barnette's Conjecture</span> <span class="track">[S]</span></td></tr>
     <tr class="session"><td>10:15 &mdash; 10:30</td><td><span class="authors"><span class="speaker">Debajyoti Mondal</span></span>. <span class="title">Layered Polyline Drawings of Planar Graphs</span> <span class="track">[S]</span></td></tr>
     <tr class="coffee"><td><strong>10:30 &mdash; 11:00</strong></td><td><strong>Coffee Break, <span class="room-info">Trozelli Lounge</span></strong></td></tr>
-    <tr class="session header schedule-link" id="session-9" schedule-link-start="2024-09-20T11:00" schedule-link-end="2024-09-20T12:20" schedule-link-text="Session 9"><td><strong>Session 9,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Sponsored by <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank" style="color: white !important"><strong>Carl Trygger Foundation</strong></a>, Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-9" schedule-link-start="2024-09-20T11:00" schedule-link-end="2024-09-20T12:20" schedule-link-text="Session 9"><td><strong>Session 9,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Sponsored by <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank" style="color: white !important"><strong>Carl Trygger Foundation</strong></a>, <br>Chair: Alexandra Weinberger, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors">Parinya Chalermsook, <span class="speaker">Ly Orgo</span> and Minoo Zarsav</span>. <span class="title">On Geometric Bipartite Graphs with Asymptotically Smallest Zarankiewicz Numbers</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors"><span class="speaker">Benedikt Hahn</span>, Torsten Ueckerdt and Birgit Vogtenhuber</span>. <span class="title">Edge densities of drawings of graphs with one forbidden cell</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Maria Chudnovsky, David Eppstein and <span class="speaker">David Fischer</span></span>. <span class="title">Sparse Obstacles for String Graphs</span> <span class="track">[T1]</span></td></tr>
@@ -890,9 +903,9 @@ function scrollToSection(sectionId) {
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Trozelli Gallery</span></strong></td></tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2024-09-20T14:00" schedule-link-end="2024-09-20T15:00" schedule-link-text="Invited Talk by Huamin Qu"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#h
     Huamin-Qu">Invited Talk</a>, <span class="room-info">Hemerycksalen</span></strong><br>
-    <span class="authors"><span>Prof. Dr. Huamin Qu</span>. </span><span class="title"><a href="" target="_blank">Transforming Graph Visualization through AI and Human-AI Collaboration</a></span></td></tr>
+    <span class="authors"><strong>Prof. Dr. Huamin Qu</strong>. </span><span class="title"><a href="" target="_blank">Transforming Graph Visualization through AI and Human-AI Collaboration, </a></span> <strong>Chair: Andreas Kerren</strong></td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">Trozelli Lounge</span></strong></td></tr>
-    <tr class="session header schedule-link" id="session-10" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:30" schedule-link-text="Session 10"><td><strong>Session 10,<br> 15:30 &mdash; 17:00</strong></td><td><strong>Chair: TBA, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-10" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:30" schedule-link-text="Session 10"><td><strong>Session 10,<br> 15:30 &mdash; 17:00</strong></td><td><strong>Chair: Sara Di Bartolomeo, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>15:30 &mdash; 15:45</td><td><span class="authors"><span class="speaker">Ye Sun</span>, Zipeng Liu, Yuankai Luo, Lei Xia and Lei Shi</span>. <span class="title">GeneticPrism: Multifaceted Visualization of Citation-based Scholarly Research Evolution</span> <span class="track">[Invited TVCG Paper]</span></td></tr>
     <tr class="session light"><td>15:45 &mdash; 16:05</td><td><span class="authors"><span class="speaker">Ilan Hartskeerl</span>, Tamara Mchedlidze, Simon van Wageningen, Peter Vangorp and Alex Telea</span>. <span class="title">NNP-NET: Accelerating t-SNE Graph Drawing for Very Large Graphs by Neural Networks</span> <span class="track">[T2]</span></td></tr>
     <tr class="session"><td>16:05 &mdash; 16:25</td><td><span class="authors"><span class="speaker">Lucas Joos</span>, Gavin J. Mooney, Maximilian T. Fischer, Daniel A. Keim, Falk Schreiber, Helen C. Purchase and Karsten Klein</span>. <span class="title">Show Me Your Best Side: Characteristics of User Preferred Perspectives for 3D Graph Drawings</span> <span class="track">[T2]</span></td></tr>

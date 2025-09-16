@@ -9,10 +9,10 @@ header:
 toc: true
 ---
 
-**Registration is now open**
+**Registration is now closed.**
 
 Early registration has ended on August 26, 23:59 CEST. \\
-Please note that registration will close by Monday, **September 15, 23:59** Stockholm time (CET)\\
+Registration closed on Monday, September 15, 23:59 Stockholm time (CET).
 
 
 ## Registration Fees
