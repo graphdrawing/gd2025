@@ -213,7 +213,7 @@ thead.day-header {
     }
   }
 </style>
-## Program Overview (Preliminary)
+## Program Overview
 
 
 
@@ -694,7 +694,7 @@ function scrollToSection(sectionId) {
 </script>
 
 
-## Detailed Schedule (Preliminary)
+## Detailed Schedule
 
 **Note for presenters:** Please consider the provided information on the [Info for Presenters](../presentation_info/) page when preparing your presentation or poster.
 
@@ -860,8 +860,8 @@ function scrollToSection(sectionId) {
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors"><span class="speaker">Rafał Pyzik</span></span>. <span class="title">Treewidth of Outer k-Planar Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Alvin Chiu, <span class="speaker">Thomas Depian</span>, David Eppstein, Michael T. Goodrich and Martin Nöllenburg</span>. <span class="title">Visualizing Treewidth</span> <span class="track">[T2]</span></td></tr>
     <tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Trozelli Gallery</span></td></tr>
-    <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2024-09-19T14:00" schedule-link-end="2024-09-19T15:00" schedule-link-text="Invited Talk by Hans Bodlaender"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#Hans-Bodlaender">Invited Talk</a>, <span class="room-info">Hemerycksalen</span></strong><br>
-    <span class="authors"><span>Prof. Dr. Hans Bodlaender</span>. </span><span class="title"><a href="" target="_blank">A Sketch of Parameterized Complexity, Chair: Vida Dujmovic</a></span> 
+    <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2024-09-19T14:00" schedule-link-end="2024-09-19T15:00" schedule-link-text="Invited Talk by Hans Bodlaender"><td>14:00 &mdash; 15:00</td><td><strong><strong>Invited Talk</strong>, <span class="room-info">Hemerycksalen</span></strong><br>
+    <span class="authors"><span>Prof. Dr. Hans Bodlaender</span>. </span><span class="title"><a href="../speaker/#Hans-Bodlaender" target="_blank">A Sketch of Parameterized Complexity</a>, <strong>Chair: Vida Dujmovic</strong></span> 
     </td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">Trozelli Lounge</span></strong></td></tr>
     <tr class="session header schedule-link" id="session-7" schedule-link-start="2024-09-19T15:30" schedule-link-end="2024-09-19T16:45" schedule-link-text="Session 7"><td><strong>Session 7,<br> 15:30 &mdash; 16:45</strong></td><td><strong>Sponsored by <a href="https://www.tomsawyer.com" target="_blank" style="color: white !important"><strong>Tom Sawyer Software</strong></a>, <br>Chair: Eleni Katsanou, <span class="room-info">Hemerycksalen</span></strong></td></tr>
@@ -901,11 +901,11 @@ function scrollToSection(sectionId) {
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Maria Chudnovsky, David Eppstein and <span class="speaker">David Fischer</span></span>. <span class="title">Sparse Obstacles for String Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Carla Binucci, Sabine Cornelsen, Walter Didimo, Seok-Hee Hong, Eleni Katsanou, Maurizio Patrignani, Antonios Symvonis and <span class="speaker">Samuel Wolf</span></span>. <span class="title">Planar Stories of Graph Drawings: Algorithms and Experiments</span> <span class="track">[T2]</span></td></tr>
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Trozelli Gallery</span></strong></td></tr>
-    <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2024-09-20T14:00" schedule-link-end="2024-09-20T15:00" schedule-link-text="Invited Talk by Huamin Qu"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#h
-    Huamin-Qu">Invited Talk</a>, <span class="room-info">Hemerycksalen</span></strong><br>
-    <span class="authors"><strong>Prof. Dr. Huamin Qu</strong>. </span><span class="title"><a href="" target="_blank">Transforming Graph Visualization through AI and Human-AI Collaboration, </a></span> <strong>Chair: Andreas Kerren</strong></td></tr>
+    <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2024-09-20T14:00" schedule-link-end="2024-09-20T15:00" schedule-link-text="Invited Talk by Huamin Qu"><td>14:00 &mdash; 15:00</td><td><strong><strong>Invited Talk</strong>, <span class="room-info">Hemerycksalen</span></strong><br>
+    <span class="authors"><strong>Prof. Dr. Huamin Qu</strong>. </span><span class="title"><a href="../speaker/#
+    Huamin-Qu" target="_blank">Transforming Graph Visualization through AI and Human-AI Collaboration</a></span>, <br><strong>Chair: Andreas Kerren</strong></td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">Trozelli Lounge</span></strong></td></tr>
-    <tr class="session header schedule-link" id="session-10" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:30" schedule-link-text="Session 10"><td><strong>Session 10,<br> 15:30 &mdash; 17:00</strong></td><td><strong>Chair: Sara Di Bartolomeo, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-10" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:30" schedule-link-text="Session 10"><td><strong>Session 10,<br> 15:30 &mdash; 16:45</strong></td><td><strong>Chair: Sara Di Bartolomeo, <span class="room-info">Hemerycksalen</span></strong></td></tr>
     <tr class="session"><td>15:30 &mdash; 15:45</td><td><span class="authors"><span class="speaker">Ye Sun</span>, Zipeng Liu, Yuankai Luo, Lei Xia and Lei Shi</span>. <span class="title">GeneticPrism: Multifaceted Visualization of Citation-based Scholarly Research Evolution</span> <span class="track">[Invited TVCG Paper]</span></td></tr>
     <tr class="session light"><td>15:45 &mdash; 16:05</td><td><span class="authors"><span class="speaker">Ilan Hartskeerl</span>, Tamara Mchedlidze, Simon van Wageningen, Peter Vangorp and Alex Telea</span>. <span class="title">NNP-NET: Accelerating t-SNE Graph Drawing for Very Large Graphs by Neural Networks</span> <span class="track">[T2]</span></td></tr>
     <tr class="session"><td>16:05 &mdash; 16:25</td><td><span class="authors"><span class="speaker">Lucas Joos</span>, Gavin J. Mooney, Maximilian T. Fischer, Daniel A. Keim, Falk Schreiber, Helen C. Purchase and Karsten Klein</span>. <span class="title">Show Me Your Best Side: Characteristics of User Preferred Perspectives for 3D Graph Drawings</span> <span class="track">[T2]</span></td></tr>
