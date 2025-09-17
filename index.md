@@ -13,7 +13,7 @@ header:
 ## September 24–26, 2025 · Norrköping, Sweden
 
 
-Registration is now closed • [Travel & Stay](/gd2025/pages/travel_accommodation/) • [Program](/gd2025/pages/program/) • [Venue](/gd2025/pages/venue/)
+Registration is now closed • [Travel & Stay](/gd2025/pages/travel_accommodation/) • [Venue](/gd2025/pages/venue/) • [Program](/gd2025/pages/program/)
 
 ## About Graph Drawing 2025
 
