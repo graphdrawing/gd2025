@@ -181,7 +181,7 @@ Registration desk for the PhD school will be located right next to the lecture r
 
 
 
-## Program (Preliminary)
+## Program 
 
 <table id="monday">
   <colgroup>
