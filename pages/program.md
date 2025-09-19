@@ -3,8 +3,8 @@
 layout: single
 title: "Program"
 header:
-  image: /assets/images/teaser/gd2025/cfp-teaser.png
-  caption: "Image credit: [**Organizer**](https://ivis.itn.liu.se/)"
+    image: /assets/images/teaser/gd2025/cfp-teaser.png
+    caption: "Image credit: [**Organizer**](https://ivis.itn.liu.se/)"
 # last_modified_at: 2025-01-17
 toc: true
 ---
@@ -213,9 +213,8 @@ thead.day-header {
     }
   }
 </style>
+
 ## Program Overview
-
-
 
 <style>
 .day-header-detailed {
@@ -693,7 +692,6 @@ function scrollToSection(sectionId) {
 }
 </script>
 
-
 ## Detailed Schedule
 
 **Note for presenters:** Please consider the provided information on the [Info for Presenters](../presentation_info/) page when preparing your presentation or poster.
@@ -792,11 +790,27 @@ function scrollToSection(sectionId) {
         <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Oswin Aichholzer, Sofia Brenner, Joseph Dorfer, Hung Hoang, <span class="speaker">Daniel Perz</span>, Christian Rieck and Francesco Verciani</span>. <span class="title">Flipping odd matchings in geometric and combinatorial settings</span> <span class="track">[T1]</span></td></tr>
         <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Florestan Brunck, Hsien-Chih Chang, <span class="speaker">Maarten Löffler</span>, Tim Ophelders and Lena Schlipf</span>. <span class="title">Reconfiguration in Curve Arrangements to Reduce Self-Intersections and Popular Faces</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Trozelli Gallery</span></td></tr>
-    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GDC Creative Challenge"><td><strong>13:00 &mdash; 16:00</strong></td><td><strong>Public Viewing of the GDC Creative Challenge <br><span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span></strong></td></tr>
+    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GDC Creative Challenge"><td><strong>13:00 &mdash; 16:00</strong></td><td><strong>Public Viewing of the GDC Creative Challenge <br><span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span></strong></td>
+    <td>
+<tr class="poster">
+	<td>13:00 &mdash; 16:00</td>
+	<td>
+    <p>View Contest Results in 360° Cylindrical Display <span class="room-info"></span></p>
+		<ul class="poster-list">
+			 <li><span class="authors"><span>Konstantina Kyriakidou, Konstantina Roussa and Christina Tsolaki</span>.</span><span class="title"> No Beginning, No End: The Eternal Return of Dark</span></li>
+			 <li><span class="authors"><span>Miltos Kalympas, Maria Eleni Pavlidi and Christos Tasioudis</span>.</span><span class="title"> Beyond The God Particle</span></li>
+			 <li><span class="authors"><span>Lin Ye, Melanie Baur and Michael Krone</span>.</span><span class="title"> Vizualizing Jonas's Life in Dark on a 360° Display</span></li>
+			 <li><span class="authors"><span>Florian Saß, Jakob Speitkamp and Guilherme Monteiro Oliveira</span>.</span><span class="title"> Journey of a Time Machine</span></li>
+			 <li><span class="authors"><span>Bryony Miles</span>.</span><span class="title"> Dark Contest - Paradox Tree and Infinity Loop</span></li>
+			 <li><span class="authors"><span>Tom Baumgartl, Luke Watkin, George Bell, Daniel Archambault, Alma Cantu and Tatiana von Landesberger</span>.</span><span class="title"> Visualizing Time Travelling, Worlds, and Quantum Variants: A Storyline-Spiral Layout of Netflix Dark</span></li>
+		</ul>
+	</td>
+</tr>
     <tr class="session header schedule-link" id="session-3" schedule-link-start="2025-09-24T14:00" schedule-link-end="2025-09-24T14:55" schedule-link-text="Session 3"><td><strong>Session 3,<br> 14:00 &mdash; 14:55</strong></td><td><strong>Chair: Tamara Mchedlidze, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>14:00 &mdash; 14:20</td><td><span class="authors">Alexander Dobler, <span class="speaker">Tim Hegemann</span>, Martin Nöllenburg and Alexander Wolff</span>. <span class="title">Optimizing Wiggle in Storylines</span> <span class="track">[T2]</span></td></tr>
         <tr class="session light"><td>14:20 &mdash; 14:40</td><td><span class="authors"><span class="speaker">Giordano Andreola</span>, Susanna Caroppo, Giuseppe Di Battista, Fabrizio Grosso, Maurizio Patrignani and <span class="speaker">Allegra Strippoli</span></span>. <span class="title">A Walk on the Wild Side: a Shape-First Methodology for Orthogonal Drawings</span> <span class="track">[T2]</span></td></tr>
         <tr class="session"><td>14:40 &mdash; 14:55</td><td><span class="authors"><span class="speaker">Alexander Dobler</span>, Maximilian Holzmüller and Martin Nöllenburg</span>. <span class="title">Geometry Matters in Planar Storyplans</span> <span class="track">[S]</span></td></tr>
+
 <tr class="poster header">
 	<td>14:55 &mdash; 15:15</td>
 	<td><strong>Fast Forward Teaser Session</strong>, <br> <strong> Chair: Kostiantyn Kucher, </strong><strong class="room-info">Hemerycksalen</strong></td>
@@ -851,7 +865,7 @@ function scrollToSection(sectionId) {
     <tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors"><span class="speaker">Miriam Goetze</span>, Michael Hoffmann, Ignaz Rutter and Torsten Ueckerdt</span>. <span class="title">Crossing Number of Simple 3-Plane Drawings</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>09:20 &mdash; 09:40</td><td><span class="authors">Zayed Asiri, Ryan Burdett, Markus Chimani, Michael Haythorpe, Alex Newcombe and <span class="speaker">Mirko H. Wagner</span></span>. <span class="title">A Systematic Approach to Crossing Numbers of Cartesian Products with Paths</span> <span class="track">[T1]</span></td></tr>
     <tr class="session "><td>09:40 &mdash; 10:00</td><td><span class="authors"><span class="speaker">Todor Antić</span>, Martin Balko and Birgit Vogtenhuber</span>. <span class="title">Crossing and non-crossing families</span> <span class="track">[T1]</span></td></tr>
-    <tr class="session light"><td>10:00 &mdash; 10:15</td><td><span class="authors">Jacob Fox, Janos Pach and Andrew Suk</span>. <span class="title">From local pair-crossing number to local crossing number</span> <span class="track">[S]</span></td></tr>
+    <tr class="session light"><td>10:00 &mdash; 10:15</td><td><span class="authors">Jacob Fox, Janos Pach and Andrew Suk</span>. <span class="title">From local pair-crossing number to local crossing number</span>, Presenter: <span class="speaker">Géza Tóth</span>. <span class="track">[S]</span></td></tr>
     <tr class="session"><td>10:15 &mdash; 10:30</td><td><span class="authors"><span class="speaker">David Eppstein</span></span>. <span class="title">Stabbing Faces By a Convex Curve</span> <span class="track">[S]</span></td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
     <tr class="session header schedule-link" id="session-6" schedule-link-start="2025-09-25T12:00" schedule-link-end="2025-09-25T13:20" schedule-link-text="Session 6"><td><strong>Session 6,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Sponsored by <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" style="color: white !important">yWorks</a>, <br>Chair: Maarten Löffler, <span class="room-info">Hemerycksalen</span></strong></td></tr>
@@ -876,7 +890,6 @@ function scrollToSection(sectionId) {
 </table>
 
 <hr>
-
 
 <table id="friday">
   <colgroup>
@@ -912,7 +925,6 @@ function scrollToSection(sectionId) {
     <tr class="special"><td><strong>16:45 &mdash; 17:00</strong></td><td><strong>Closing Remarks & Award Ceremony, <span class="room-info">Hemerycksalen</span></strong></td></tr>
   </tbody>
 </table>
-
 
 <script>
 // Function to scroll to specific sections
