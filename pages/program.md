@@ -763,9 +763,7 @@ function scrollToSection(sectionId) {
         <tr class="reception"><td>18:30 &mdash; 20:30</td><td>Welcome Reception, <span class="room-info"><a href="../venue/#welcome-reception" target="_blank">Location: VY NKPG Skybar</a></span></td></tr>
   </tbody>      
 </table>
-
 <hr>
-
 <table id="wednesday">
   <colgroup>
     <col width="25%" />
@@ -774,7 +772,7 @@ function scrollToSection(sectionId) {
   <thead class="day-header-detailed">
     <tr><th colspan=2>Wednesday, September 24</th></tr>
   </thead>
-  <tbody>
+   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
         <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration, <span class="room-info">Trozelli Lounge</span></td></tr>
         <tr class="poster"><td>09:00 &mdash; 09:15</td><td>Opening</td></tr>
@@ -790,63 +788,64 @@ function scrollToSection(sectionId) {
         <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Oswin Aichholzer, Sofia Brenner, Joseph Dorfer, Hung Hoang, <span class="speaker">Daniel Perz</span>, Christian Rieck and Francesco Verciani</span>. <span class="title">Flipping odd matchings in geometric and combinatorial settings</span> <span class="track">[T1]</span></td></tr>
         <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Florestan Brunck, Hsien-Chih Chang, <span class="speaker">Maarten Löffler</span>, Tim Ophelders and Lena Schlipf</span>. <span class="title">Reconfiguration in Curve Arrangements to Reduce Self-Intersections and Popular Faces</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Trozelli Gallery</span></td></tr>
-    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GDC Creative Challenge"><td><strong>13:00 &mdash; 16:00</strong></td><td><strong>Public Viewing of the GDC Creative Challenge <br><span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span></strong></td>
-    <td>
-<tr class="poster">
-	<td>13:00 &mdash; 16:00</td>
-	<td>
-    <p>View Contest Results in 360° Cylindrical Display <span class="room-info"></span></p>
-		<ul class="poster-list">
-			 <li><span class="authors"><span>Konstantina Kyriakidou, Konstantina Roussa and Christina Tsolaki</span>.</span><span class="title"> No Beginning, No End: The Eternal Return of Dark</span></li>
-			 <li><span class="authors"><span>Miltos Kalympas, Maria Eleni Pavlidi and Christos Tasioudis</span>.</span><span class="title"> Beyond The God Particle</span></li>
-			 <li><span class="authors"><span>Lin Ye, Melanie Baur and Michael Krone</span>.</span><span class="title"> Vizualizing Jonas's Life in Dark on a 360° Display</span></li>
-			 <li><span class="authors"><span>Florian Saß, Jakob Speitkamp and Guilherme Monteiro Oliveira</span>.</span><span class="title"> Journey of a Time Machine</span></li>
-			 <li><span class="authors"><span>Bryony Miles</span>.</span><span class="title"> Dark Contest - Paradox Tree and Infinity Loop</span></li>
-			 <li><span class="authors"><span>Tom Baumgartl, Luke Watkin, George Bell, Daniel Archambault, Alma Cantu and Tatiana von Landesberger</span>.</span><span class="title"> Visualizing Time Travelling, Worlds, and Quantum Variants: A Storyline-Spiral Layout of Netflix Dark</span></li>
-		</ul>
-	</td>
-</tr>
+    <tr class="gdc schedule-link" id="gdc-viewing" schedule-link-start="2025-09-24T13:00" schedule-link-end="2025-09-24T16:00" schedule-link-text="Public Viewing of GDC Creative Challenge">
+      <td><strong>13:00 &mdash; 16:00</strong></td>
+      <td><strong>Public Viewing of the GDC Creative Challenge <br><span class="room-info"><a href="../venue/#decision-arena-location" target="_blank">Location: Norrköping Decision Arena</a></span></strong></td>
+    </tr>
+    <tr class="poster">
+      <td>13:00 &mdash; 16:00</td>
+      <td>
+        <p>View Contest Results in 360° Cylindrical Display <span class="room-info"></span></p>
+        <ul class="poster-list">
+          <li><span class="authors"><span>Konstantina Kyriakidou, Konstantina Roussa and Christina Tsolaki</span>.</span><span class="title"> No Beginning, No End: The Eternal Return of Dark</span></li>
+          <li><span class="authors"><span>Miltos Kalympas, Maria Eleni Pavlidi and Christos Tasioudis</span>.</span><span class="title"> Beyond The God Particle</span></li>
+          <li><span class="authors"><span>Lin Ye, Melanie Baur and Michael Krone</span>.</span><span class="title"> Vizualizing Jonas's Life in Dark on a 360° Display</span></li>
+          <li><span class="authors"><span>Florian Saß, Jakob Speitkamp and Guilherme Monteiro Oliveira</span>.</span><span class="title"> Journey of a Time Machine</span></li>
+          <li><span class="authors"><span>Bryony Miles</span>.</span><span class="title"> Dark Contest - Paradox Tree and Infinity Loop</span></li>
+          <li><span class="authors"><span>Tom Baumgartl, Luke Watkin, George Bell, Daniel Archambault, Alma Cantu and Tatiana von Landesberger</span>.</span><span class="title"> Visualizing Time Travelling, Worlds, and Quantum Variants: A Storyline-Spiral Layout of Netflix Dark</span></li>
+        </ul>
+      </td>
+    </tr>
     <tr class="session header schedule-link" id="session-3" schedule-link-start="2025-09-24T14:00" schedule-link-end="2025-09-24T14:55" schedule-link-text="Session 3"><td><strong>Session 3,<br> 14:00 &mdash; 14:55</strong></td><td><strong>Chair: Tamara Mchedlidze, <span class="room-info">Hemerycksalen</span></strong></td></tr>
         <tr class="session"><td>14:00 &mdash; 14:20</td><td><span class="authors">Alexander Dobler, <span class="speaker">Tim Hegemann</span>, Martin Nöllenburg and Alexander Wolff</span>. <span class="title">Optimizing Wiggle in Storylines</span> <span class="track">[T2]</span></td></tr>
         <tr class="session light"><td>14:20 &mdash; 14:40</td><td><span class="authors"><span class="speaker">Giordano Andreola</span>, Susanna Caroppo, Giuseppe Di Battista, Fabrizio Grosso, Maurizio Patrignani and <span class="speaker">Allegra Strippoli</span></span>. <span class="title">A Walk on the Wild Side: a Shape-First Methodology for Orthogonal Drawings</span> <span class="track">[T2]</span></td></tr>
         <tr class="session"><td>14:40 &mdash; 14:55</td><td><span class="authors"><span class="speaker">Alexander Dobler</span>, Maximilian Holzmüller and Martin Nöllenburg</span>. <span class="title">Geometry Matters in Planar Storyplans</span> <span class="track">[S]</span></td></tr>
-
-<tr class="poster header">
-	<td>14:55 &mdash; 15:15</td>
-	<td><strong>Fast Forward Teaser Session</strong>, <br> <strong> Chair: Kostiantyn Kucher, </strong><strong class="room-info">Hemerycksalen</strong></td>
-</tr>
-<tr class="poster header">
-	<td>15:15 &mdash; 16:15</td>
-	<td><strong>Posters</strong>, <strong class="room-info">Trozelli Gallery</strong></td>
-</tr>
-<tr class="poster">
-	<td>15:15 &mdash; 16:15</td>
-	<td>
-		<p>Poster Session <span class="room-info"></span></p>
-		<ul class="poster-list">
-			 <li><span class="authors"><span>Maarten Löffler, Miriam Münch and Ignaz Rutter</span>.</span><span class="title"> Reeb Lobsters are 1-Planar</span></li>
-			 <li><span class="authors"><span>Lucas Joos, Maximilian T. Fischer, Alexander Frings and Daniel A. Keim</span>.</span><span class="title"> EnMRgy: Energy Network Analysis in Mixed Reality</span></li>
-			 <li><span class="authors"><span>Maarten Löffler, Frank Staals and Soeren Terziadis</span>.</span><span class="title"> Recovering Graphs from their Witness Unit Square Representation</span></li>
-			 <li><span class="authors"><span>Raissa Vieira, Hugo Nascimento, Joelma Ferreira, Les Foulds, Karsten Klein and Falk Schreiber</span>.</span><span class="title"> Edge Bundling as a Multi-objective Optimization Problem</span></li>
-			 <li><span class="authors"><span>Henry Förster, Stephen Kobourov, Jacob Miller and Johannes Zink</span>.</span><span class="title"> Drawing Trees and Cacti with Integer Edge Lengths on a Polynomial-Size Grid</span></li>
-			 <li><span class="authors"><span>Oswin Aichholzer, Robert Ganian, Phillip Keldenich, Maarten Löffler, Gert Meijer, Alexandra Weinberger and Carola Wenk</span>.</span><span class="title"> Graph Tiles</span></li>
-			 <li><span class="authors"><span>Cristiano Bernardini, Davide Campanelli, Walter Didimo, Luca Grilli, Giuseppe Liotta and Benedetto Ponti</span>.</span><span class="title"> TReView: Visualizing the European Union Transparency Register</span></li>
-			 <li><span class="authors"><span>Ying Zhang, Niklas Gröne, Karsten Klein, Giuseppe Liotta and Falk Schreiber</span>.</span><span class="title"> Investigating Crossing Perception in 3D Graph Visualisation</span></li>
-			 <li><span class="authors"><span>Erin Chambers, Tim Ophelders, Anna Schenfisch and Julia Sollberger</span>.</span><span class="title"> Counting Triangulations of Fixed Cardinal Degrees</span></li>
-			 <li><span class="authors"><span>Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>.</span><span class="title"> Defective Linear Layouts of Graphs</span></li>
-			 <li><span class="authors"><span>Todor Antić, Guillermo Gamboa Quintero and Jelena Glišić</span>.</span><span class="title"> Reconfigurations of Plane Caterpillars and Paths</span></li>
-			 <li><span class="authors"><span>Timo Brand, Henry Förster, Stephen Kobourov, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>.</span><span class="title"> Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span></li>
-			 <li><span class="authors"><span>Amyra Meidiana, Seok-Hee Hong and Kwan-Liu Ma</span>.</span><span class="title"> BH-tsNET, FIt-tsNET, L-tsNET: Fast tsNET Algorithms for Large Graph Drawing</span></li>
-		</ul>
-	</td>
-</tr>
-    <tr class="coffee"><td>15:15 &mdash; 16:15</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
-     <tr class="session header schedule-link" id="session-4" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 4"><td><strong>Session 4,<br> 16:15 &mdash; 17:00</strong></td><td><strong>Best Paper Session</strong>,<br><strong>Chair: Fabrizio Montecchiani, <span class="room-info">Hemerycksalen</span></strong></td></tr>
-        <tr class="session"><td>16:15 &mdash; 16:20</td><td>Introduction to best papers</td></tr>
-        <tr class="session light"><td>16:20 &mdash; 16:40</td><td><span class="authors">Oswin Aichholzer, Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and <span class="speaker">Alexandra Weinberger</span></span>. <span class="title">Characterizing and Recognizing Twistedness</span> <span class="track">[T1]</span></td></tr>
-        <tr class="session"><td>16:40 &mdash; 17:00</td><td><span class="authors"><span class="speaker">Sergey Pupyrev</span></span>. <span class="title">OOPS: Optimized One-Planarity Solver via SAT</span> <span class="track">[T2]</span></td></tr>
-   <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GDC Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2025/" target="_blank">GDC Live Challenge</a>, <span class="room-info">Hemerycksalen</span></strong></td></tr>
-  </tbody>
+    <tr class="poster header">
+        <td>14:55 &mdash; 15:15</td>
+        <td><strong>Fast Forward Teaser Session</strong>, <br> <strong> Chair: Kostiantyn Kucher, </strong><strong class="room-info">Hemerycksalen</strong></td>
+    </tr>
+    <tr class="poster header">
+        <td>15:15 &mdash; 16:15</td>
+        <td><strong>Posters</strong>, <strong class="room-info">Trozelli Gallery</strong></td>
+    </tr>
+    <tr class="poster">
+        <td>15:15 &mdash; 16:15</td>
+        <td>
+            <p>Poster Session <span class="room-info"></span></p>
+            <ul class="poster-list">
+                <li><span class="authors"><span>Maarten Löffler, Miriam Münch and Ignaz Rutter</span>.</span><span class="title"> Reeb Lobsters are 1-Planar</span></li>
+                <li><span class="authors"><span>Lucas Joos, Maximilian T. Fischer, Alexander Frings and Daniel A. Keim</span>.</span><span class="title"> EnMRgy: Energy Network Analysis in Mixed Reality</span></li>
+                <li><span class="authors"><span>Maarten Löffler, Frank Staals and Soeren Terziadis</span>.</span><span class="title"> Recovering Graphs from their Witness Unit Square Representation</span></li>
+                <li><span class="authors"><span>Raissa Vieira, Hugo Nascimento, Joelma Ferreira, Les Foulds, Karsten Klein and Falk Schreiber</span>.</span><span class="title"> Edge Bundling as a Multi-objective Optimization Problem</span></li>
+                <li><span class="authors"><span>Henry Förster, Stephen Kobourov, Jacob Miller and Johannes Zink</span>.</span><span class="title"> Drawing Trees and Cacti with Integer Edge Lengths on a Polynomial-Size Grid</span></li>
+                <li><span class="authors"><span>Oswin Aichholzer, Robert Ganian, Phillip Keldenich, Maarten Löffler, Gert Meijer, Alexandra Weinberger and Carola Wenk</span>.</span><span class="title"> Graph Tiles</span></li>
+                <li><span class="authors"><span>Cristiano Bernardini, Davide Campanelli, Walter Didimo, Luca Grilli, Giuseppe Liotta and Benedetto Ponti</span>.</span><span class="title"> TReView: Visualizing the European Union Transparency Register</span></li>
+                <li><span class="authors"><span>Ying Zhang, Niklas Gröne, Karsten Klein, Giuseppe Liotta and Falk Schreiber</span>.</span><span class="title"> Investigating Crossing Perception in 3D Graph Visualisation</span></li>
+                <li><span class="authors"><span>Erin Chambers, Tim Ophelders, Anna Schenfisch and Julia Sollberger</span>.</span><span class="title"> Counting Triangulations of Fixed Cardinal Degrees</span></li>
+                <li><span class="authors"><span>Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>.</span><span class="title"> Defective Linear Layouts of Graphs</span></li>
+                <li><span class="authors"><span>Todor Antić, Guillermo Gamboa Quintero and Jelena Glišić</span>.</span><span class="title"> Reconfigurations of Plane Caterpillars and Paths</span></li>
+                <li><span class="authors"><span>Timo Brand, Henry Förster, Stephen Kobourov, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>.</span><span class="title"> Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span></li>
+                <li><span class="authors"><span>Amyra Meidiana, Seok-Hee Hong and Kwan-Liu Ma</span>.</span><span class="title"> BH-tsNET, FIt-tsNET, L-tsNET: Fast tsNET Algorithms for Large Graph Drawing</span></li>
+            </ul>
+        </td>
+    </tr>
+        <tr class="coffee"><td>15:15 &mdash; 16:15</td><td>Coffee Break, <span class="room-info">Trozelli Lounge</span></td></tr>
+        <tr class="session header schedule-link" id="session-4" schedule-link-start="2025-09-24T11:00" schedule-link-end="2025-09-24T12:20" schedule-link-text="Session 4"><td><strong>Session 4,<br> 16:15 &mdash; 17:00</strong></td><td><strong>Best Paper Session</strong>,<br><strong>Chair: Fabrizio Montecchiani, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+            <tr class="session"><td>16:15 &mdash; 16:20</td><td>Introduction to best papers</td></tr>
+            <tr class="session light"><td>16:20 &mdash; 16:40</td><td><span class="authors">Oswin Aichholzer, Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and <span class="speaker">Alexandra Weinberger</span></span>. <span class="title">Characterizing and Recognizing Twistedness</span> <span class="track">[T1]</span></td></tr>
+            <tr class="session"><td>16:40 &mdash; 17:00</td><td><span class="authors"><span class="speaker">Sergey Pupyrev</span></span>. <span class="title">OOPS: Optimized One-Planarity Solver via SAT</span> <span class="track">[T2]</span></td></tr>
+    <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GDC Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2025/" target="_blank">GDC Live Challenge</a>, <span class="room-info">Hemerycksalen</span></strong></td></tr>
+</tbody>
 </table>
 
 <hr>
