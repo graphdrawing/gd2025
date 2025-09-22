@@ -244,6 +244,13 @@ position: sticky;
   flex-shrink: 0;
 }
 
+@media (max-width: 768px) {
+  .time-axis {
+    width: 30px;
+    font-size: 0.75em;
+  }
+}
+
 .time-slot {
   text-align: center;
   padding: 4px;
@@ -305,6 +312,13 @@ position: sticky;
   transition: all 0.3s ease;
   z-index: 1;
   word-wrap: break-word;
+}
+
+@media (max-width: 768px) {
+  .event-block {
+    margin: 0 2px;
+    width: calc(100% - 4px);
+  }
 }
 
 .event-block:hover {
