@@ -710,6 +710,8 @@ function scrollToSection(sectionId) {
 
 **Note for presenters:** Please consider the provided information on the [Info for Presenters](../presentation_info/) page when preparing your presentation or poster.
 
+Got questions? Look for our local team in blue LiU t-shirts, or contact the organizers at <u>gd2025 [at] itn [dot] liu [dot] se</u>.
+
 <p>Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#wednesday">Wednesday</a>, <a href="#thursday">Thursday</a>, or <a href="#friday">Friday</a>.</p>
 
 <p><em>[T1] Track 1 Paper</em>, <em>[T2] Track 2 Paper</em>, <em>[S] Short Paper</em></p>
