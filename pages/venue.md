@@ -14,7 +14,7 @@ toc: true
 
 The main venue of GD 2025 is **Louis de Geer Concert & Congress** in Norrköping, Sweden. The venue is located in the heart of Norrköping's industrial landscape, offering a unique setting for the symposium.
 
-
+<strong>When you enter the building, please take the stairs or elevator downstairs to reach the main conference venue (Hemerycksalen).</strong>
 
 **Main Symposium Venue Address:**  
 Louis de Geer Concert & Congress  
