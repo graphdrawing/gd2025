@@ -12,8 +12,7 @@ header:
 
 ## September 24–26, 2025 · Norrköping, Sweden
 
-Welcome to Norrköping! [Venue](/gd2025/pages/venue/) | [Program](/gd2025/pages/program/)
-<br />Contact local organizers at gd2025 [at] itn [dot] liu [dot] se
+Thank you all for participating in GD 2025!
 
 ## About Graph Drawing 2025
 
@@ -35,7 +34,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 | Notification of poster acceptance | ~~September 1, 2025~~     |
 | Final paper versions due          | ~~September 1, 2025~~     |
 | PhD school                        | ~~September 22–23, 2025~~ |
-| Symposium                         | September 24–26, 2025 |
+| Symposium                         | ~~September 24–26, 2025~~ |
 
 All deadlines are understood to be 23:59 AoE.
 

@@ -38,8 +38,18 @@ Furthermore, the GD participants can also vote for the best poster and the best 
 <p><strong>Optimized One-Planarity Solver via SAT</strong>.</p>
 </div>
 
-## Best Poster
-TBD.
+## Best Poster Award
+<div class="awardee">
+<p><strong>Cristiano Bernardini, Davide Campanelli, Walter Didimo, Luca Grilli, Giuseppe Liotta, and Benedetto Ponti</strong></p>
+<p>for their poster</p>
+<p><strong>TReView: Visualizing the European Union Transparency Register</strong>.</p>
+</div>
 
-## Best Presentation
-TBD.
+
+
+## Best Presentation Award
+<div class="awardee">
+<p><strong>Benedikt Hahn</strong></p>
+<p>for presenting the paper</p>
+<p><strong>Edge densities of drawings of graphs with one forbidden cell</strong> (co-authored by Torsten Ueckerdt and Birgit Vogtenhuber).</p>
+</div>

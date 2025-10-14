@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+The symposium has concluded on September 26. The awards page is now updated, and the slides are available for all paper and keynote talks. Congratulations to all the award winners and thanks to all the symposium participants!
+
 [21.08.2025] The [Info for Presenters](../presentation_info/) page has been updated with information.
 
 [13.08.2025] The [Program](../program/) page has been updated with the **preliminary program** for the symposium.
