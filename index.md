@@ -14,6 +14,8 @@ header:
 
 Thank you all for participating in GD 2025!
 
+<img src="{{ site.baseurl }}/assets/images/events/group.png" alt="group photo" class="award-image">
+
 ## About Graph Drawing 2025
 
 Graph Drawing is concerned with the geometric representation of graphs and constitutes the algorithmic core of Network Visualization. Graph Drawing and Network Visualization are motivated by applications where it is crucial to visually analyze and interact with relational datasets. Examples of such application areas include data science, social sciences, Web computing, information systems, biology, geography, business intelligence, information security and software engineering.
