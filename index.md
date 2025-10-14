@@ -14,7 +14,7 @@ header:
 
 Thank you all for participating in GD 2025!
 
-<img src="{{ site.baseurl }}/assets/images/events/group.png" alt="group photo" class="award-image">
+<img src="{{ site.baseurl }}/assets/images/event/group.png" alt="group photo" class="award-image">
 
 ## About Graph Drawing 2025
 
