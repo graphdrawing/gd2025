@@ -5,7 +5,7 @@ layout: single
 header:
   image: /assets/images/teaser/gd2025/invited-speaker.png
   caption: "Image credit: [**Visualization Center C**](https://visualiseringscenter.se/en/)"
-# last_modified_at: 2023-07-24
+# last_modified_at: 2025-11-26
 toc: true
 ---
 
@@ -70,14 +70,14 @@ toc: true
 </div>
 
 <p> <strong> Title:  </strong> </p>
-<p>A Sketch of Parameterized Complexity </p>
+<p><a class="doi" href="https://doi.org/10.4230/LIPIcs.GD.2025.1" target="_blank">A Sketch of Parameterized Complexity</a></p>
 <p> <strong> Abstract: </strong> </p>
 <p> In the field of parameterized complexity, we study algorithms for and the complexity of problems where one part of the input is a parameter that is assumed to be small. In this talk, a survey will be given of several central notions from parameterized complexity, and discuss some recent developments, including the classes XNLP and XALP. These topics will be illustrated with examples from results on graph layout and graph drawing. </p>
 
 <p> <strong> Biography: </strong> </p>
 <p> Hans Bodlaender finished his PhD at Utrecht University in 1986, on a topic in Distributed Computing. He was postdoc at MIT in 1987, and worked as assistant, associate and full professor from 1987 till now at Utrecht University, and part time full professor from 2014 till 2018.<br><br>
 
-He worked on different topics in parameterized algorithms and complexity, and graph and network algorithms, including the treewidth of graphs and kernelization. He was received the EATCS-IPEC Nerode award in 2014 and 2024 , and the WG Test of Time award in 2024. </p>
+He worked on different topics in parameterized algorithms and complexity, and graph and network algorithms, including the treewidth of graphs and kernelization. He was received the EATCS-IPEC Nerode award in 2014 and 2024, and the WG Test of Time award in 2024.</p>
 
 <hr>
 
@@ -92,7 +92,7 @@ He worked on different topics in parameterized algorithms and complexity, and gr
 </div>
 
 <p> <strong> Title: </strong></p> 
-<p>Transforming Graph Visualization through AI and Human-AI Collaboration </p>
+<p><a class="doi" href="https://doi.org/10.4230/LIPIcs.GD.2025.2" target="_blank">Transforming Graph Visualization through AI and Human-AI Collaboration</a></p>
 <p> <strong>Abstract: </strong> </p>
 
 <p>
